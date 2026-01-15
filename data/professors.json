@@ -142263,7 +142263,7 @@
             "last_updated_lattes": "2025-11-29T10:11:26.926544"
         },
         {
-            "nome": "ALBERTO JOSE ALVA",
+            "nome": "ALBERTO JOSE ALVARES",
             "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA - BRASÍLIA",
             "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2161725",
@@ -152255,8 +152255,22 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1817613",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2000 - 2005: Engenharia Elétrica Eletrônica\nUniversidade de Pernambuco"
+                ],
+                "MESTRADO": [
+                    "2006 - 2007: Engenharia de Produção\nUniversidade Federal de Pernambuco"
+                ],
+                "DOUTORADO": [
+                    "2008 - 2011: Engenharia de Produção\nUniversidade Federal de Pernambuco"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "5678",
+                "email": "anacarlabr@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },

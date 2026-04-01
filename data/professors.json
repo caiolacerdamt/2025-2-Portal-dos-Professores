@@ -47141,31 +47141,14 @@
             }
         },
         {
-            "nome": "ALEXEI KRASSILNIKOV",
+            "nome": "ALEX",
             "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
             "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2327512",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1975 - 1978: Matematica\nUniversidade Estatal de Moscou `M.V. Lomonossov'"
-                ],
-                "MESTRADO": [
-                    "1978 - 1980: Matematica\nUniversidade Estatal de Moscou `M.V. Lomonossov'"
-                ],
-                "DOUTORADO": [
-                    "1980 - 1983: Matematica\nUniversidade Estatal de Moscou `M.V. Lomonossov'"
-                ],
-                "PÓS-DOUTORADO": [
-                    "1998 - 1999: Pós-Doutorado\nUniversity of Manchester Institute of Science and Technology"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "6456",
-                "email": "alexei@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -76528,23 +76511,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1707052",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2001 - 2005: Estatística\nUniversidade de Brasília",
-                    "2014 - 2017: Computação\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2006 - 2008: Agronomia (Estatística e Experimentação Agronômica)\nUniversidade de São Paulo"
-                ],
-                "DOUTORADO": [
-                    "2008 - 2013: Ciências (Estatística e experimentação Agronomica)\nUniversidade de São Paulo"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "3659",
-                "email": "edunb01@hotmail.com"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -77379,8 +77347,8 @@
             "departamento": "DEPTO ESTATÍSTICA - BRASÍLIA",
             "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1127617",
-            "descricao_pessoal": null,
-            "lattes_url": null,
+            "descricao_pessoal": "não informada",
+            "lattes_url": "https://lattes.cnpq.br/6976248041309607",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "1985 - 1990: Bacharelado Em Estatística\nUniversidade de Brasília"
@@ -77393,7 +77361,7 @@
                     "2003 - 2008: Estatística\nKansas State University"
                 ],
                 "PÓS-DOUTORADO": [
-                    "2024 - : Pós-Doutorado\nThe University of Texas at El Paso"
+                    "2024 - 2025: Pós-Doutorado\nThe University of Texas at El Paso"
                 ]
             },
             "contatos": {
@@ -78663,22 +78631,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2655121",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1999 - 2002: Estatística\nUniversidade de São Paulo"
-                ],
-                "MESTRADO": [
-                    "2003 - 2006: Estatística\nUniversidade de São Paulo"
-                ],
-                "DOUTORADO": [
-                    "2012 - 2016: Psicologia Social, do Trabalho e das Organizações (Psto)\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "3664",
-                "email": "lgvinha@gmail.com"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -120570,27 +120524,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2764698",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1999 - 2000: Engenharia Mecânica (Graduação Sanduíche)\nTechnische Universität München",
-                    "1996 - 2002: Engenharia Mecânica\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2002 - 2004: Engenharia Civil (Recursos Hídricos)\nUniversidade Federal do Ceará"
-                ],
-                "DOUTORADO": [
-                    "2005 - 2009: Earth and Environmental Engineering\nColumbia University"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2009 - 2010: Pós-Doutorado\nColumbia University",
-                    "2016 - 2017: Pós-Doutorado\nUniversity of California, Irvine"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "0934",
-                "email": "chrlima@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "lMZGQBwAAAAJ",
@@ -152281,25 +152216,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1550524",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1992 - 1997: Engenhaharia Química Habilitação Eng. de Alimentos\nUniversidade Federal de Santa Catarina"
-                ],
-                "ESPECIALIZAÇÃO": [
-                    "2001 - 2001: Engenharia de Alimentos\nUniversidade Federal de Santa Catarina"
-                ],
-                "MESTRADO": [
-                    "2002 - 2004: Engenharia Mecânica\nUniversidade Federal de Santa Catarina"
-                ],
-                "DOUTORADO": [
-                    "2004 - 2008: Engenharia Mecânica\nUniversidade Federal de Santa Catarina"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "31071000",
-                "email": "andreasantos@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "owQ8pl8AAAAJ",
@@ -176746,23 +176664,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1455691",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1992 - 1996: Engenharia Florestal\nUniversidade Federal de Santa Maria",
-                    "1995 - 1996: Agronomia\nUniversidade Federal de Santa Maria"
-                ],
-                "MESTRADO": [
-                    "1997 - 1999: Ciência Florestal\nUniversidade Federal de Viçosa"
-                ],
-                "DOUTORADO": [
-                    "2000 - 2005: Agronomia (Solos e Nutrição de Plantas)\nUniversidade Federal de Viçosa"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "31075642",
-                "email": "alcidesgatto@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "prWnKpQAAAAJ",
@@ -183164,6 +183067,37 @@
                 "sala": "não informado",
                 "telefone": "5531",
                 "email": "li.castro@unb.br"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "YURI SAMPAIO MALUF",
+            "departamento": "DEPTO ESTATÍSTICA - BRASÍLIA",
+            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1209061",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2021 - : Licenciatura em Matemática\nFUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP",
+                    "2007 - 2011: Administração de Empresas\nUniversidade de Brasília",
+                    "2011 - 2014: Estatística\nUniversidade de Brasília"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2012 - 2013: Mercado Financeiro e Investimentos\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2014 - 2015: Estatistica\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2016 - 2023: Estatística\nUniversidade de São Paulo"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "yurimaluf@gmail.com"
             },
             "dados_lattes": null,
             "dados_scholar": null

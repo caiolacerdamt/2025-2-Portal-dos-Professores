@@ -47141,7 +47141,7 @@
             }
         },
         {
-            "nome": "ALEX",
+            "nome": "ALEXEI KRASSILNIKOV",
             "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
             "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2327512",
@@ -103512,7 +103512,7 @@
                     "2004 - Incompleto: Comunicação Social - Jornalismo\nUniversidade Federal de Viçosa"
                 ],
                 "MESTRADO": [
-                    "2010 - 2012: Bioquimica Agricola\nUniversidade Federal de Viçosa"
+                    "2010 - 2012: Bioquímica e Biotecnologia\nUniversidade Federal de Viçosa"
                 ],
                 "DOUTORADO": [
                     "2012 - 2016: Ciências Farmacêuticas\nUniversidade Federal de Minas Gerais"
@@ -105100,7 +105100,7 @@
         {
             "nome": "FABIO MOREIRA DA SILVA",
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/20261401797c5438391146f411e5e9c40/fabioFotoCarteiraDocente.jpg",
+            "foto_url": "https://arquivos.unb.br/arquivos/20262441159f35391571983f4b1f04d1a/FabioPiri.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1948783",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
@@ -107022,7 +107022,7 @@
         {
             "nome": "GERSON DE SOUZA MOL",
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2023101201d79827553573acff8f3005e/Gerson_foto_2.jpeg",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026206158fe2b3875178057cef9d35ac/Imagem_do_WhatsApp_de_2025-09-23_s_11.12.52_d5132218.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=418913",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5435762270956940/",
@@ -176487,7 +176487,7 @@
             "dados_scholar": null
         },
         {
-            "nome": "AILTON",
+            "nome": "AILTON TEIXEIRA DO VALE",
             "departamento": "DEPTO ENGENHARIA FLORESTAL - BRASÍLIA",
             "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=404207",
@@ -176708,8 +176708,23 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1455691",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1992 - 1996: Engenharia Florestal\nUniversidade Federal de Santa Maria",
+                    "1995 - 1996: Agronomia\nUniversidade Federal de Santa Maria"
+                ],
+                "MESTRADO": [
+                    "1997 - 1999: Ciência Florestal\nUniversidade Federal de Viçosa"
+                ],
+                "DOUTORADO": [
+                    "2000 - 2005: Agronomia (Solos e Nutrição de Plantas)\nUniversidade Federal de Viçosa"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "31075642",
+                "email": "alcidesgatto@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "prWnKpQAAAAJ",

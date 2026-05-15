@@ -34135,6 +34135,7 @@
             "lattes_url": null,
             "formacao_academica": {
                 "GRADUAÇÃO": [
+                    "2025 - : Letras Língua Estrangeira Aplicada\nUniversidade de Brasília",
                     "1986 - 1991: Engenharia Elétrica\nUniversidade Federal do Ceará"
                 ],
                 "MESTRADO": [
@@ -36120,6 +36121,9 @@
                 ],
                 "DOUTORADO": [
                     "1997 - 2003: Informática\nPontifícia Universidade Católica do Rio de Janeiro"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2024 - 2025: Pós-Doutorado\nUniversidade Federal de Mato Grosso"
                 ]
             },
             "contatos": {
@@ -38630,10 +38634,10 @@
         {
             "nome": "JONATHAN ROSA MOREIRA",
             "departamento": "DEPTO CIÊNCIAS DA COMPUTAÇÃO - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/20241681434b733186096aeb379a8ee19/Foto_JRM.jpg",
+            "foto_url": "https://arquivos.unb.br/arquivos/202602711929df382830450891676662f/JRM_FOTO.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3414854",
             "descricao_pessoal": "não informada",
-            "lattes_url": null,
+            "lattes_url": "https://lattes.cnpq.br/9262866585872095",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "2004 - 2008: Bacharelado em Sistemas de Informação\nFaculdade Cenecista de Brasília -Campanha Nacional de Escolas da Comunidade",
@@ -38644,18 +38648,18 @@
                     "2020 - 2021: Biblioteconomia\nUniversidade de Caxias do Sul",
                     "2019 - 2020: Licenciatura em Letras - Português e Espanhol\nFaculdade Integrada de Brasília",
                     "2021 - 2024: Letras Português - Inglês\nUniversidade Católica de Brasília",
-                    "2021 - : Estatística\nUniversidade Anhembi Morumbi"
+                    "2021 - 2025: Estatística\nUniversidade Anhembi Morumbi"
                 ],
                 "ESPECIALIZAÇÃO": [
                     "2012 - 2014: Lato Sensu em Gestão de Processos Acadêmicos\nCentro Universitário Projeção",
-                    "2020 - 2020: Educação a Distância\nUniversidade Paulista",
                     "2010 - 2011: Tecnologias em Ensino a Distância\nUniversidade Cidade de São Paulo",
+                    "2020 - 2020: Educação a Distância\nUniversidade Paulista",
+                    "2016 - 2017: Psicopedagogia e Educação Especial\nS B I",
                     "2008 - 2009: MBA em Governança de Tecnologia da Informação\nUniversidade Ceuma",
                     "2014 - 2015: Educação em e para os Direitos Humanos\nUniversidade de Brasília",
                     "2014 - 2016: Planejamento, Implementação e Gestão da EAD\nUniversidade Federal Fluminense",
                     "2017 - 2018: Letramento Informacional: educação para a informação\nUniversidade Federal de Goiás",
-                    "2015 - 2016: Gestão de Políticas Públicas de Gênero e Raça\nUniversidade de Brasília",
-                    "2016 - 2017: Psicopedagogia e Educação Especial\nS B I"
+                    "2015 - 2016: Gestão de Políticas Públicas de Gênero e Raça\nUniversidade de Brasília"
                 ],
                 "MESTRADO": [
                     "2010 - 2011: Gestão do Conhecimento e Tecnologia da Informação\nUniversidade Católica de Brasília"
@@ -48111,9 +48115,9 @@
         {
             "nome": "CLEYTON HERCULES GONTIJO",
             "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2024240083241a3247983b194416803f5/Cleyton_15setembro2023.jpg",
+            "foto_url": "https://arquivos.unb.br/arquivos/202614820214413860729dfa08a2285e8/Gemini_Generated_Image_9reyhs9reyhs9rey.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1714408",
-            "descricao_pessoal": "Professor Associado IV na Universidade de Brasília - UnB, com lotação no Departamento de Matemática. É membro do Programa de Pós-Graduação em Educação da UnB, orientando pesquisas nos cursos de mestrado acadêmico e doutorado em educação. Possui graduação em Licenciatura em Ciências e Matemática pelo Centro Universitário de Brasília (1991), mestrado em Educação pela Universidade de Brasília (1999) e doutorado em Psicologia pela Universidade de Brasília (2007). Tem experiência na área de Matemática, com ênfase em Educação Matemática, atuando principalmente nos seguintes temas: criatividade em matemática, avaliação em matemática e resolução de problemas.",
+            "descricao_pessoal": "Professor Titular da Universidade de Brasília - UnB, com lotação no Departamento de Matemática. É membro do Programa de Pós-Graduação em Educação da UnB, orientando pesquisas nos cursos de mestrado acadêmico e doutorado em educação. Possui graduação em Licenciatura em Ciências e Matemática pelo Centro Universitário de Brasília (1991), mestrado em Educação pela Universidade de Brasília (1999) e doutorado em Psicologia pela Universidade de Brasília (2007). Tem experiência na área de Matemática, com ênfase em Educação Matemática, atuando principalmente nos seguintes temas: criatividade em matemática, avaliação em matemática e resolução de problemas.",
             "lattes_url": "http://lattes.cnpq.br/0556476746202406",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -58461,9 +58465,9 @@
         {
             "nome": "ANA CAROLINA SIMIONATO ARAKAKI",
             "departamento": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/202601511854263829353494d4e6f8551/WhatsApp_Image_2026-02-26_at_17.16.17.jpeg",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026008245f7c039424379878ce61e6c3/img20260324155334585.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1225384",
-            "descricao_pessoal": "Professora e pesquisadora da Faculdade de Ciência da Informação da Universidade de Brasília (UnB), com atuação no eixo de organização e representação da informação e do conhecimento, é também docente permanente no Programa de Pós-Graduação em Ciência da Informação da Universidade Federal de São Carlos (PPGCI/UFSCar) e no Programa de Pós-Graduação em Ciência da Informação da Universidade de Brasília (PPGCINF/UnB).",
+            "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/9896600626524397",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -76528,8 +76532,23 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1707052",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2001 - 2005: Estatística\nUniversidade de Brasília",
+                    "2014 - 2017: Computação\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2006 - 2008: Agronomia (Estatística e Experimentação Agronômica)\nUniversidade de São Paulo"
+                ],
+                "DOUTORADO": [
+                    "2008 - 2013: Ciências (Estatística e experimentação Agronomica)\nUniversidade de São Paulo"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "3659",
+                "email": "edunb01@hotmail.com"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -78648,8 +78667,22 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2655121",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1999 - 2002: Estatística\nUniversidade de São Paulo"
+                ],
+                "MESTRADO": [
+                    "2003 - 2006: Estatística\nUniversidade de São Paulo"
+                ],
+                "DOUTORADO": [
+                    "2012 - 2016: Psicologia Social, do Trabalho e das Organizações (Psto)\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "3664",
+                "email": "lgvinha@gmail.com"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -82077,28 +82110,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1672308",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/9274147713584765",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1995 - 1999: Física\nUniversidade Federal de Goiás"
-                ],
-                "ESPECIALIZAÇÃO": [
-                    "2007 - 2007: Licenciatura\nUniversidade Federal de Goiás"
-                ],
-                "MESTRADO": [
-                    "1999 - 2000: Física\nUniversidade Federal de Goiás"
-                ],
-                "DOUTORADO": [
-                    "2001 - 2005: Física\nUniversidade de Brasília"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2005 - 2006: Pós-Doutorado\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "7717",
-                "email": "albernaz@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -120541,8 +120554,27 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2764698",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1999 - 2000: Engenharia Mecânica (Graduação Sanduíche)\nTechnische Universität München",
+                    "1996 - 2002: Engenharia Mecânica\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2002 - 2004: Engenharia Civil (Recursos Hídricos)\nUniversidade Federal do Ceará"
+                ],
+                "DOUTORADO": [
+                    "2005 - 2009: Earth and Environmental Engineering\nColumbia University"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2009 - 2010: Pós-Doutorado\nColumbia University",
+                    "2016 - 2017: Pós-Doutorado\nUniversity of California, Irvine"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "0934",
+                "email": "chrlima@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "lMZGQBwAAAAJ",
@@ -123777,24 +123809,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1548557",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4762097P7&tokenCaptchar=03AGdBq24dpQ7pGAtcz3Izy3hZnKGKXkyF1lmIp8vvKjqpCcdamuf7SP9XPGF4s1cnUHNfFFLVEwlIfcMJp5t2k1QDidyfkO7cq9co_Mifat6VHSDINCRYgr1O0BTkL70YUNwTGTFXnojaTzQXEC3bPJWxSF0BfjRrunZ5WFlGWy9n0m6VpYgcBP1yWqrZaW7kw-D1JON0RNoXcksWxwyqBz",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1998 - 2001: Tecnologia em Obras de Solos e Pavimentação\nUniversidade Estadual de Campinas",
-                    "2008 - 2011: Bacharelado em Engenharia Civil\nInstituto Paulista de Ensino Superior Unificado"
-                ],
-                "MESTRADO": [
-                    "2002 - 2005: Engenharia de Transportes\nUniversidade de São Paulo"
-                ],
-                "DOUTORADO": [
-                    "2013 - 2013: civil engineering\nUniversity of Texas at San Antonio",
-                    "2011 - 2017: Doutorado em Engenharia Civil\nUniversidade de São Paulo"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "31070975",
-                "email": "fabio.zanchetta@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "Dr_c7o8AAAAJ",
@@ -155786,7 +155802,7 @@
             "contatos": {
                 "sala": "não informado",
                 "telefone": "não informado",
-                "email": "mgabriela.unb@gmail.com"
+                "email": "maria.peixoto@unb.br"
             },
             "dados_lattes": null,
             "dados_scholar": null
@@ -157509,25 +157525,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1165891",
             "descricao_pessoal": "Possui graduação em Ciências Econômicas pela Universidade de Brasília (UnB, 2010), pós-graduação em Controladoria e Finanças pelo IBMEC/DF (2013), Mestrado (2016) e Doutorado (2020) em Finanças e Métodos Quantitativos pelo Programa de Pós-Graduação em Administração da UnB (PPGA/UnB).",
             "lattes_url": "http://lattes.cnpq.br/6798568258786751",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2006 - 2010: Ciências Econômicas\nUniversidade de Brasília"
-                ],
-                "ESPECIALIZAÇÃO": [
-                    "2012 - 2013: CBA - Controladoria e Finanças\nGrupo IBMEC"
-                ],
-                "MESTRADO": [
-                    "2014 - 2016: Administração\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2016 - 2020: Administração\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "Não tenho",
-                "email": "jsouza@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -179682,19 +179681,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1204824",
             "descricao_pessoal": "Professor Associado IV\nManejo de Bacias Hidrográficas",
             "lattes_url": "http://lattes.cnpq.br/3479480621039646",
-            "formacao_academica": {
-                "MESTRADO": [
-                    "1985 - 1987: Agronomia\nPurdue University"
-                ],
-                "DOUTORADO": [
-                    "1987 - 1990: Agronomia\nPurdue University"
-                ]
-            },
-            "contatos": {
-                "sala": "02",
-                "telefone": "5614",
-                "email": "hchaves@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -182820,25 +182808,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=400794",
             "descricao_pessoal": "É Engenheiro Florestal pela Universidade Federal do Paraná (1987), Mestre em Ciências de Florestas Tropicais pelo Instituto Nacional de Pesquisas da Amazônia (1993) e Doutor (Ph.D.; Forestry) pela Universidade de Aberdeen, Escócia, Reino Unido (2004). Desde 1990 é Professor da Universidade Federal do Amazonas. Atua no Departamento de Engenharia Florestal da UnB (2024-2027).",
             "lattes_url": "http://lattes.cnpq.br/6327995700505923",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1984 - 1987: Engenharia Florestal - Universidade Federal do Paraná\nUniversidade Federal do Paraná"
-                ],
-                "ESPECIALIZAÇÃO": [
-                    "1997 - 1998: Sensoriamento Remoto e SIG\nUniversidade Federal da Paraíba"
-                ],
-                "MESTRADO": [
-                    "1988 - 1993: Ciências de Florestas Tropicais\nInstituto Nacional de Pesquisas da Amazônia"
-                ],
-                "DOUTORADO": [
-                    "2000 - 2004: PhD Forestry\nUniversity of Aberdeen"
-                ]
-            },
-            "contatos": {
-                "sala": "12",
-                "telefone": "5630",
-                "email": "joberto.freitas@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -183156,7 +183127,7 @@
             "contatos": {
                 "sala": "não informado",
                 "telefone": "não informado",
-                "email": "yurimaluf@gmail.com"
+                "email": "yurimaluf@yahoo.com"
             },
             "dados_lattes": null,
             "dados_scholar": null

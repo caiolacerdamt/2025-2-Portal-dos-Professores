@@ -32886,7 +32886,7 @@
             "dados_scholar": null
         },
         {
-            "nome": "ALBA CRISTINA MAGALHAES A",
+            "nome": "ALBA CRISTINA MAGALHAES ALVES DE MELO",
             "departamento": "DEPTO CIÊNCIAS DA COMPUTAÇÃO - BRASÍLIA",
             "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1223368",
@@ -50225,9 +50225,19 @@
             "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/20252242286e69364464473bb14bc4b48/foto.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2088601",
-            "descricao_pessoal": "Fui professor na Universidade Federal do Pará (UFPA) por cinco anos e, desde 2025, atuo como professor na Universidade de Brasília (UnB). Tenho interesse em pesquisa na área de Teoria dos Números, atuo no ensino de disciplinas de Matemática Pura e mantenho interesse em atividades de extensão, especialmente em programas ligados às olimpíadas de matemática.",
+            "descricao_pessoal": "Atuo como professor na Universidade de Brasília (UnB) desde 2015. Desenvolvo pesquisas na área de Teoria dos Números e leciono disciplinas de Matemática Pura. Também tenho interesse em atividades de extensão, especialmente em iniciativas relacionadas às olimpíadas de matemática.",
             "lattes_url": "http://lattes.cnpq.br/0114800801521979",
-            "formacao_academica": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2011 - 2014: Matemática\nUniversidade Federal de Goiás"
+                ],
+                "MESTRADO": [
+                    "2014 - 2015: Matemática\nUniversidade Federal de Goiás"
+                ],
+                "DOUTORADO": [
+                    "2015 - 2018: Matemática\nUniversidade de Brasília"
+                ]
+            },
             "contatos": {
                 "sala": "A1-444/12",
                 "telefone": "3107-6479",
@@ -60428,7 +60438,7 @@
         {
             "nome": "CLOVIS CARVALHO BRITTO",
             "departamento": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/20260950062424390052468d0c2c7f048/2.jpg",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026076170169c397026268ae3125c2be/novo.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1051862",
             "descricao_pessoal": "Realizou estágio pós-doutoral em Museologia pela Universidade Lusófona - Centro Universitário de Lisboa e em Estudos Culturais pela Universidade Federal do Rio de Janeiro. Doutor em Museologia pela Universidade Lusófona e Doutor em Sociologia pela Universidade de Brasília. Mestre em Sociologia pela Universidade Federal de Goiás e Mestre em Museologia pela Universidade Federal da Bahia. Professor Associado II na Faculdade de Ciência da Informação da Universidade de Brasília no Curso de Museologia e no Programa de Pós-Graduação em Ciência da Informação. Professor Permanente no Programa de Pós-Graduação em Museologia da Universidade Federal da Bahia. Professor Colaborador no Departamento de Museologia e Investigador colaborador no Centro de Estudos Interdisciplinares em Educação e Desenvolvimento da Universidade Lusófona, em Portugal. Bolsista de Produtividade em Pesquisa do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) na área de Museologia (2020-2029). Consultor ad hoc do CNPq e da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Líder do Grupo de Pesquisa Museologia, Patrimônio e Memória (UnB) e membro do Grupo de Pesquisa Cultura, Memória e Desenvolvimento (UnB).",
             "lattes_url": "http://lattes.cnpq.br/7846212059366799",
@@ -179701,8 +179711,19 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1204824",
             "descricao_pessoal": "Professor Associado IV\nManejo de Bacias Hidrográficas",
             "lattes_url": "http://lattes.cnpq.br/3479480621039646",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "MESTRADO": [
+                    "1985 - 1987: Agronomia\nPurdue University"
+                ],
+                "DOUTORADO": [
+                    "1987 - 1990: Agronomia\nPurdue University"
+                ]
+            },
+            "contatos": {
+                "sala": "02",
+                "telefone": "5614",
+                "email": "hchaves@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -182828,8 +182849,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=400794",
             "descricao_pessoal": "É Engenheiro Florestal pela Universidade Federal do Paraná (1987), Mestre em Ciências de Florestas Tropicais pelo Instituto Nacional de Pesquisas da Amazônia (1993) e Doutor (Ph.D.; Forestry) pela Universidade de Aberdeen, Escócia, Reino Unido (2004). Desde 1990 é Professor da Universidade Federal do Amazonas. Atua no Departamento de Engenharia Florestal da UnB (2024-2027).",
             "lattes_url": "http://lattes.cnpq.br/6327995700505923",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1984 - 1987: Engenharia Florestal - Universidade Federal do Paraná\nUniversidade Federal do Paraná"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "1997 - 1998: Sensoriamento Remoto e SIG\nUniversidade Federal da Paraíba"
+                ],
+                "MESTRADO": [
+                    "1988 - 1993: Ciências de Florestas Tropicais\nInstituto Nacional de Pesquisas da Amazônia"
+                ],
+                "DOUTORADO": [
+                    "2000 - 2004: PhD Forestry\nUniversity of Aberdeen"
+                ]
+            },
+            "contatos": {
+                "sala": "12",
+                "telefone": "5630",
+                "email": "joberto.freitas@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -183148,6 +183186,69 @@
                 "sala": "não informado",
                 "telefone": "não informado",
                 "email": "yurimaluf@yahoo.com"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "FRANCISCO VANDERSON MOREIRA DE LIMA",
+            "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
+            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1696894",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {},
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "-",
+                "email": "francisco.vanderson@unb.br"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "MONICA REGINA PERES",
+            "departamento": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/2019173024f1e52002013fed81089a2d0/IMG_20170218_203135_435.jpg",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3288556",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1987 - 1990: BIBLIOTECONOMIA\nUniversidade Federal de Goiás",
+                    "2020 - 2023: Pedagogia\nFACULDADE APOGEU"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2000 - 2001: Informática na Educação\nUniversidade Federal de Lavras",
+                    "2002 - 2004: Marketing\nS B I"
+                ],
+                "MESTRADO": [
+                    "2007 - 2009: Desenvolvimento Regional e Meio Ambiente\nUniversidade Federal de Rondônia"
+                ],
+                "DOUTORADO": [
+                    "2013 - 2018: Ciências da Informação\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "6524",
+                "email": "mperes.bsb@gmail.com"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "ANDREA NATALY PENA PENA",
+            "departamento": "FACULDADE DE ARQUITETURA E URBANISMO - BRASÍLIA",
+            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3525753",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {},
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "natilla8746@gmail.com"
             },
             "dados_lattes": null,
             "dados_scholar": null

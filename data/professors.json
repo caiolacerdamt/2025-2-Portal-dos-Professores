@@ -34107,22 +34107,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2497584",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1990 - 1994: Ciência da Computação\nUniversidade de Passo Fundo"
-                ],
-                "MESTRADO": [
-                    "1996 - 1998: Ciência da Computação\nNagoya Institute Of Technology"
-                ],
-                "DOUTORADO": [
-                    "1998 - 2001: Ciência da Computação\nNagoya Institute Of Technology"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "3662",
-                "email": "carladenisecastanho@gmail.com"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -43038,25 +43024,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1159553",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1979 - 1982: Bacharelado Em Matemática\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "1986 - 1988: Engenharia de Produção\nUniversidade Federal de Santa Catarina"
-                ],
-                "DOUTORADO": [
-                    "1988 - 1995: Engenharia Elétrica\nUniversidade Federal de Santa Catarina"
-                ],
-                "PÓS-DOUTORADO": [
-                    "1998 - 1999: Pós-Doutorado\nState University Of New York At Stony Brook"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "5895",
-                "email": "murilo@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "gN_REkcAAAAJ",
@@ -43222,9 +43191,9 @@
         {
             "nome": "PEDRO GARCIA FREITAS",
             "departamento": "DEPTO CIÊNCIAS DA COMPUTAÇÃO - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2023238124177c26945097683ff434e66/me.jpg",
+            "foto_url": "https://arquivos.unb.br/arquivos/20262150127bf537689996016b142d4f1/ama.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2679452",
-            "descricao_pessoal": "Doutor e Mestre em Informática pelo Departamento de Ciências da Computação da Universidade de Brasília (UnB). Graduou-se em Física também pela UnB. Durante 2014 e 2015, trabalhou na Universidade Técnica de Delft (TU Delft), Holanda. Trabalhou como programador de computadores em projetos do LabRedes(UnB, Brasil), como assistente de pesquisa em projetos de ciência de dados no Instituto de Pesquisa Econômica Aplicada (IPEA) e como técnico de informática no Laboratório de Cálculo Científico (LCC) do Instituto de Física da UnB, onde desenvolveu diversos sistemas para automatizar a administração dos recursos computacionais do laboratório. Atualmente é pesquisador contratado no Samsung Research Institute Brasil (SRBR) em Campinas e pesquisador colaborador do Programa de Pós-Graduação em Informática (PPGI) da UnB. Suas áreas de interesse incluem visão computacional, aprendizado de máquina, métricas de avaliação de qualidade visual e compressão de imagens.",
+            "descricao_pessoal": "Docente do magistério superior e pesquisador nas áreas de Multimídia e Aprendizado de Máquina. Possui experiência em processamento de sinais e na edição de normas internacionais ISO/IEC 21794.",
             "lattes_url": "http://lattes.cnpq.br/0669244312752630",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -43240,7 +43209,7 @@
             "contatos": {
                 "sala": "não informado",
                 "telefone": "3662",
-                "email": "não informado"
+                "email": "pedro.freitas@unb.br"
             },
             "dados_lattes": null,
             "dados_scholar": {
@@ -44763,7 +44732,7 @@
                 ]
             },
             "contatos": {
-                "sala": "A1-45/7",
+                "sala": "A1-63/28",
                 "telefone": "+55 (61) 3107-3661",
                 "email": "roberto.filho@unb.br"
             },
@@ -45325,25 +45294,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1821656",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2004 - 2007: Ciência da Computação\nUniversidade Federal de Goiás"
-                ],
-                "MESTRADO": [
-                    "2008 - 2010: Ciência da Computação\nUniversidade Estadual de Campinas"
-                ],
-                "DOUTORADO": [
-                    "2011 - 2016: Ciencia da Computacao\nUniversidade de São Paulo"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2025 - : Pós-Doutorado\nUniversity of Maryland"
-                ]
-            },
-            "contatos": {
-                "sala": "A1-67-28",
-                "telefone": "2226",
-                "email": "thiagodepaulo@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "Fh9KDgcAAAAJ",
@@ -45865,7 +45817,7 @@
             "departamento": "DEPTO CIÊNCIAS DA COMPUTAÇÃO - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2020029048c11620461932133ffddded4/codeforces.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1279829",
-            "descricao_pessoal": "Professor adjunto do Departamento de Ciência da Computação (CIC). Coordena o projeto de extensão \"Maratona de Programação\" no âmbito da UnB, além de ser técnico das equipes do CIC/UnB na Maratona SBC de Programação e do International Collegiate Programming Contest (ICPC).\n\nDocente se encontra em afastamento para pós-doutorado no exterior.\n\nPara mais informações, acesse minha página pessoal: https://viniciusrpb.github.io/",
+            "descricao_pessoal": "Professor adjunto do Departamento de Ciência da Computação (CIC). Coordena o projeto de extensão \"Maratona de Programação\" no âmbito da UnB, além de ser técnico das equipes do CIC/UnB na Maratona SBC de Programação e do International Collegiate Programming Contest (ICPC).\n\nAtualmente, o docente se encontra em afastamento para pós-doutorado no exterior.\n\nPara mais informações, acesse minha página pessoal: https://viniciusrpb.github.io/",
             "lattes_url": "http://lattes.cnpq.br/1841593572448050",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -46448,6 +46400,9 @@
                 ],
                 "DOUTORADO": [
                     "2016 - 2021: Ciências da Computação\nUniversidade Federal de Santa Catarina"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2025 - : Pós-Doutorado\nUniversidade Federal de Lavras"
                 ]
             },
             "contatos": {
@@ -48640,26 +48595,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1151467",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/3436184353817774",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2003 - 2006: Matemática\nUniversidade Federal de Mato Grosso do Sul"
-                ],
-                "MESTRADO": [
-                    "2007 - 2009: Matemática\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2009 - 2013: Matemática\nUniversidade de Brasília"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2013 - 2014: Pós-Doutorado\nUniversidade de Brasília",
-                    "2022 - : Pós-Doutorado\nImperial College London - South Kensington Campus"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "não informado",
-                "email": "dnantes@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -49479,25 +49416,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1848603",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5021091527395609",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2001 - 2004: Matemática Bacharelado\nUniversidade Federal de Goiás"
-                ],
-                "MESTRADO": [
-                    "2005 - 2007: Matemática\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2007 - 2011: Matemática\nUniversidade de Brasília"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2018 - 2019: Pós-Doutorado\nUniversidade do Porto"
-                ]
-            },
-            "contatos": {
-                "sala": "A1 402/12",
-                "telefone": "6481",
-                "email": "fzapata@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -51662,8 +51582,9 @@
                     "2016 - 2018: Matemática\nUniversidade de Brasília"
                 ],
                 "PÓS-DOUTORADO": [
-                    "2019 - 2020: Pós-Doutorado\nPontifícia Universidade Católica do Rio de Janeiro",
-                    "2021 - 2022: Pós-Doutorado\nUniversidad Nacional Autónoma de Mexico"
+                    "2026 - : Pós-Doutorado\nUniversidade Estadual de Campinas",
+                    "2021 - 2022: Pós-Doutorado\nUniversidad Nacional Autónoma de Mexico",
+                    "2019 - 2020: Pós-Doutorado\nPontifícia Universidade Católica do Rio de Janeiro"
                 ]
             },
             "contatos": {
@@ -52771,25 +52692,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2185886",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2003 - 2007: matematica\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2007 - 2009: Matemática\nUniversidade Estadual de Campinas"
-                ],
-                "DOUTORADO": [
-                    "2009 - 2013: Matemática\nUniversidade Estadual de Campinas"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2014 - : Pós-Doutorado\nUniversity of Potsdam"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "6494",
-                "email": "phcosta@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "3GsME1AAAAAJ",
@@ -60253,26 +60157,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2717070",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2000 - 2003: Arquivologia\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2005 - 2007: Ciências da Informação\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2007 - 2011: Ciências da Informação\nUniversidade de Brasília"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2014 - 2015: Pós-Doutorado\nUniversidade de Brasília",
-                    "2015 - 2015: Pós-Doutorado\nEcole Nationale des Chartes - Sorbonne"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "2634",
-                "email": "angelicacunha@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "mctpPD8AAAAJ",
@@ -64502,22 +64388,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=673388",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1979 - 1982: Processamento de Dados\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "1989 - 1992: Biblioteconomia e Documentação\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2006 - 2010: Ciência da Informação\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "2640",
-                "email": "jleiro@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "4kWtFagAAAAJ",
@@ -68899,25 +68771,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2615616",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5676915146365703",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2007 - 2010: Biblioteconomia\nUniversidade de Brasília"
-                ],
-                "ESPECIALIZAÇÃO": [
-                    "2010 - 2011: Docência do Ensino Superior\nFaculdade Alvorada"
-                ],
-                "MESTRADO": [
-                    "2012 - 2013: Ciências da Informação\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2014 - 2017: Ciências da Informação\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "2641",
-                "email": "michelli@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -73221,24 +73076,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1762467",
             "descricao_pessoal": "Adoro Brasília.",
             "lattes_url": "http://lattes.cnpq.br/4126785926136488",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1993 - 1996: Licenciatura em História\nUniversidade de Brasília",
-                    "1999 - Incompleto: Educação Artística\nUniversidade de Brasília",
-                    "1993 - 1997: Bacharelado em História\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2004 - 2006: História\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2016 - 2020: Comunicação\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "2651",
-                "email": "ecarrijo@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -77306,7 +77145,7 @@
             "foto_url": "https://arquivos.unb.br/arquivos/2024151201e05d306156365adb2214907/20231219_160732.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1145677",
             "descricao_pessoal": "não informada",
-            "lattes_url": null,
+            "lattes_url": "https://lattes.cnpq.br/4486716856546664",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "2010 - Incompleto: Ensino de Matemática\nUniversidade Pedagógica - Moçambique",
@@ -77323,7 +77162,7 @@
                 ]
             },
             "contatos": {
-                "sala": "não informado",
+                "sala": "A1 30/28",
                 "telefone": "31073659/3696",
                 "email": "frederico.almeida@unb.br"
             },
@@ -77777,10 +77616,10 @@
         {
             "nome": "HELTON SAULO BEZERRA DOS SANTOS",
             "departamento": "DEPTO ESTATÍSTICA - BRASÍLIA",
-            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026144020b5904021476cb9aec0f3904/IMG-2169.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1071560",
-            "descricao_pessoal": null,
-            "lattes_url": null,
+            "descricao_pessoal": "não informada",
+            "lattes_url": "https://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4138533H8",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "2004 - 2007: Ciências Econômicas\nUniversidade Católica de Brasília"
@@ -77812,22 +77651,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2531979",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2000 - 2003: Matemática\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2004 - 2006: Matemática\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2008 - 2012: Estatística\nUniversidade de São Paulo"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "3659",
-                "email": "james@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -105722,7 +105547,7 @@
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/20251222096a9636473748b5ecf5c8893/ffs02.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1747768",
-            "descricao_pessoal": "Professor Associado IV no Instituto de Química da Universidade de Brasília (UnB) onde atua em disciplinas de Química Analítica, Química Ambiental e Ciências Ambientais. É membro da Sociedade Brasileira de Química (SBQ) e atual Diretor da Divisão de Química Ambiental da SBQ (Gestão 2024-2026), onde também foi Vice-Diretor (Gestão 2012-2014). Foi membro do Instituto Nacional de Ciências e Tecnologias Analíticas Avançadas (INCTAA) entre 2010 a 2024 e atualmente integra o INCT Hepatologia 360. É Bolsista de Produtividade em Pesquisa do CNPq desde 2020, líder do Grupo de Automação, Quimiometria e Química Ambiental (AQQUA) da UnB e coordenador do Projeto Cloacina, uma iniciativa em rede com apoio da SENAD, Polícia Federal, Universidades e Companhias de Saneamento com vistas à vigilância do esgoto para drogas de abuso.",
+            "descricao_pessoal": "Professor Titular no Instituto de Química da Universidade de Brasília (UnB) onde atua em disciplinas de graduação de Química Analítica, Química Ambiental e Ciências Ambientais. É credenciado no Programa de Pós-Graduação em Química da UnB, onde acumula a orientação de mais de 30 estudantes e a oferta de disciplinas como Química Ambiental, Métodos de Análises Químicas e Métodos de Separação. É membro da Sociedade Brasileira de Química (SBQ) e atual Diretor da Divisão de Química Ambiental da SBQ (Gestões 2024/2026 e 2026/2028), onde também foi Vice-Diretor (Gestão 2012/2014). Foi membro do Instituto Nacional de Ciências e Tecnologias Analíticas Avançadas (INCTAA) entre 2010 a 2024 e atualmente integra o INCT Hepatologia 360. É Editor Associado do periódico Química Nova e Bolsista de Produtividade em Pesquisa do CNPq desde 2020. É Líder do Grupo de Automação, Quimiometria e Química Ambiental (AQQUA) da UnB e Coordena o Projeto Cloacina, uma iniciativa em rede com apoio da SENAD, Polícia Federal, Universidades e Companhias de Saneamento com vistas à vigilância do esgoto para drogas de abuso.",
             "lattes_url": "http://lattes.cnpq.br/5464023129390042",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -107053,25 +106878,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=418913",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5435762270956940/",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1983 - 1988: Bacharelado e Licenciatura Em Química\nUniversidade Federal de Viçosa"
-                ],
-                "MESTRADO": [
-                    "1988 - 1991: Química\nUniversidade Federal de Minas Gerais"
-                ],
-                "DOUTORADO": [
-                    "1995 - 1999: Química\nUniversidade de Brasília"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2012 - 2013: Pós-Doutorado\nUniversidade de Aveiro"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "31073808",
-                "email": "gmol@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -107544,7 +107352,7 @@
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/20240510653b3631289887171cd0807ec/WhatsApp_Image_2024-06-28_at_13.57.19.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1719905",
-            "descricao_pessoal": "Professora Associada IV do Instituto de Química, campus Darcy Ribeiro da Universidade de Brasília. Bolsista produtividade em desenvolvimento tecnológico e extensão inovadora pelo CNPq - nível 2. Líder do grupo de pesquisa de Bioprocessos Cervejeiros e Catálise aplicada a Energias Renováveis - LaBCCERVA/IQ/UnB. Sua pesquisa e atuação profissional consiste no desenvolvimento de diversas tecnologias (de conversão de biomassa e de alimentos, com ênfase em cerveja e malte) para produção de bioenergia e cerveja/malte. Visite o nosso site: https://sites.google.com/view/labccerva/",
+            "descricao_pessoal": "Professora Titular do Instituto de Química, campus Darcy Ribeiro da Universidade de Brasília. Bolsista produtividade em desenvolvimento tecnológico e extensão inovadora pelo CNPq - nível 2. Líder do grupo de pesquisa de Bioprocessos Cervejeiros e Catálise aplicada a Energias Renováveis - LaBCCERVA/IQ/UnB. Sua pesquisa e atuação profissional consiste no desenvolvimento de diversas tecnologias (de conversão de biomassa e de alimentos, com ênfase em cerveja e malte) para produção de bioenergia e cerveja/malte. Visite o nosso site: https://sites.google.com/view/labccerva/",
             "lattes_url": "http://lattes.cnpq.br/6040333497171664",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -120568,27 +120376,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2764698",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1999 - 2000: Engenharia Mecânica (Graduação Sanduíche)\nTechnische Universität München",
-                    "1996 - 2002: Engenharia Mecânica\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2002 - 2004: Engenharia Civil (Recursos Hídricos)\nUniversidade Federal do Ceará"
-                ],
-                "DOUTORADO": [
-                    "2005 - 2009: Earth and Environmental Engineering\nColumbia University"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2009 - 2010: Pós-Doutorado\nColumbia University",
-                    "2016 - 2017: Pós-Doutorado\nUniversity of California, Irvine"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "0934",
-                "email": "chrlima@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "lMZGQBwAAAAJ",
@@ -124905,25 +124694,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1335816",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1995 - 2001: Environmental Engineering\nUniversidad de Santiago de Chile"
-                ],
-                "MESTRADO": [
-                    "2001 - 2003: Applied Environmental Measurements Techniques\nChalmers University of Technology"
-                ],
-                "DOUTORADO": [
-                    "2004 - 2007: Urban Engineering\nUniversity of Tokyo"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2014 - : Pós-Doutorado\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "0989",
-                "email": "pineda@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -130783,23 +130555,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1847391",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/0471906852268220",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2001 - 2006: Engenharia Civil\nUniversidade Estadual de Goiás",
-                    "2020 - 2025: Psicologia\nCentro Universitário de Brasília"
-                ],
-                "MESTRADO": [
-                    "2007 - 2008: Estruturas e Construção Civil\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2008 - 2013: Estruturas e Construção Civil\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "31075603",
-                "email": "marcoshonorato@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -131552,7 +131309,7 @@
         {
             "nome": "MICHELE TEREZA MARQUES CARVALHO",
             "departamento": "DEPTO ENGENHARIA CIVIL E AMBIENTAL - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2023183093519e294077016dd2f14348c/a554903e-aebd-4d06-a75b-18de79be95aa.jpeg",
+            "foto_url": "https://arquivos.unb.br/arquivos/202605503698873909485d590f6382c8d/Foto_profissional_15_04_2026_rosto.PNG",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1534368",
             "descricao_pessoal": "possui graduação em Engenharia Civil pela Universidade Católica de Goiás (2000), especialista em Planejamento Urbano e Ambiental pela Universidade Estadual de Goiás (2001) e mestrado em Engenharia Civil pela Universidade Federal de Goiás (2005). Doutoramento pela Universidade de Brasília (2009), sendo a área de pesquisa em construção civil com ênfase em sustentabilidade e habitação de interesse social. Tem experiência na área de Engenharia Civil, com ênfase em Construção Civil, atuando principalmente nos seguintes temas: , sustentabilidade, planejamento de grandes obras, SGQ, Gestão de projetos, gestão contratual com ênfase em gestão de riscos, BIM e técnicas de IA.",
             "lattes_url": "https://lattes.cnpq.br/6009800118928646",
@@ -131573,7 +131330,7 @@
             "contatos": {
                 "sala": "SG12-4",
                 "telefone": "4119",
-                "email": "MICHELETEREZA@UNB.BR"
+                "email": "micheletereza@unb.br"
             },
             "dados_lattes": {
                 "resumo_cv": null,
@@ -150229,7 +149986,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1320571",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2008 - 2012: Engenharia Mecânica\nUniversidade Regional Integrada do Alto Uruguai e das Missões"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2013 - 2015: Engenharia de Segurança do Trabalho\nS B I",
+                    "2021 - 2022: Ergonomia\nFaculdade Única de Ipatinga"
+                ],
+                "MESTRADO": [
+                    "2014 - 2015: Engenharia Mecânica\nUniversidade Federal do Rio Grande do Sul"
+                ],
+                "DOUTORADO": [
+                    "2016 - 2020: Engenharia Mecânica\nUniversidade Federal do Rio Grande do Sul"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2022 - 2026: Pós-Doutorado\nUniversidade de São Paulo",
+                    "2023 - 2024: Pós-Doutorado\nKobe University"
+                ]
+            },
             "contatos": {
                 "sala": "não informado",
                 "telefone": "(61) 3107-5503",
@@ -150429,9 +150204,9 @@
         {
             "nome": "SIMONE MONTEIRO E SILVA",
             "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/202021616738ad2047323fc76e8fc8a4d/foto_Lattes.jpeg",
+            "foto_url": "https://arquivos.unb.br/arquivos/202609911417b9393895791de19db38e7/WhatsApp_Image_2026-05-11_at_14.28.29.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2115160",
-            "descricao_pessoal": "Professora Adjunta IV Classe C do Departamento de Engenharia Mecânica da Faculdade de Tecnologia da Universidade de Brasília (UnB). Possui Doutorado obtido em regime de co-tutela, com os títulos de Doutora em Engenharia de Alimentos (Universidade Estadual de Campinas, Brasil) e Doutora em Ciências Biológicas Aplicadas: Química (Universidade de Ghent, Bélgica). Tem experiência em Engenharia de Alimentos, atuando principalmente nos seguintes temas: processos de purificação e separação, processamento de óleos vegetais,simulação computacional, adsorção, equilíbrio de fases e termodinâmica. É membro do Grupo Técnico de Óleos e Gorduras (GTFO), coordenado pela Gerência Geral de Alimentos da Anvisa, que trata de temas relacionados a óleos e gorduras em discussão no âmbito do Codex Alimentarius (FAO/OMS).",
+            "descricao_pessoal": "Professora Associada I Classe C do Departamento de Engenharia Mecânica da Faculdade de Tecnologia da Universidade de Brasília (UnB). Possui Doutorado obtido em regime de co-tutela, com os títulos de Doutora em Engenharia de Alimentos (Universidade Estadual de Campinas, Brasil) e Doutora em Ciências Biológicas Aplicadas: Química (Universidade de Ghent, Bélgica). Tem experiência em Engenharia de Alimentos, atuando principalmente nos seguintes temas: processos de purificação e separação, processamento de óleos vegetais,simulação computacional, adsorção, equilíbrio de fases e termodinâmica. É membro do Grupo Técnico de Óleos e Gorduras (GTFO), coordenado pela Gerência Geral de Alimentos da Anvisa, que trata de temas relacionados a óleos e gorduras em discussão no âmbito do Codex Alimentarius (FAO/OMS).",
             "lattes_url": "http://lattes.cnpq.br/4578658799634346",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -152030,7 +151805,11 @@
                     "2002 - 2004: Pós-Doutorado\nUniversità degli Studi di Roma Tor Vergata"
                 ]
             },
-            "contatos": {},
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "5503",
+                "email": "giuseppe.vairo@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -152055,7 +151834,11 @@
                     "2002 - 2004: Pós-Doutorado\nUniversità degli Studi di Roma Tor Vergata"
                 ]
             },
-            "contatos": {},
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "5503",
+                "email": "giuseppe.vairo@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -152066,22 +151849,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2730343",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2003 - 2007: Engenharia Mecânica\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2008 - 2009: Ciências Mecânicas\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2009 - 2013: Ciências Mecânicas\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "61981735855",
-                "email": "rafael.gabler@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "7Vbl6YEAAAAJ",
@@ -152484,7 +152253,7 @@
                     "2025 - : Programa de Pos Graduação em Ciência da Computação - UNESP\nUniversidade Estadual Paulista Júlio de Mesquita Filho"
                 ],
                 "PÓS-DOUTORADO": [
-                    "2025 - 2025: Pós-Doutorado\nUniversidade de São Paulo"
+                    "2025 - 2026: Pós-Doutorado\nUniversidade de São Paulo"
                 ]
             },
             "contatos": {
@@ -153230,29 +152999,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3322236",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1981 - 1987:\nUniversidade Federal de Santa Catarina"
-                ],
-                "ESPECIALIZAÇÃO": [
-                    "1993 - 1995:\nUniversidade de Brasília",
-                    "1995 - 1995:\nCalifornia State University, Los Angeles"
-                ],
-                "MESTRADO": [
-                    "1990 - 1993: Administração\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "1998 - 2003: Administração\nUniversidade Federal de Minas Gerais"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2013 - 2018: Pós-Doutorado\nUniversidade do Minho"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "5732",
-                "email": "annibal@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -157555,8 +157303,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1165891",
             "descricao_pessoal": "Possui graduação em Ciências Econômicas pela Universidade de Brasília (UnB, 2010), pós-graduação em Controladoria e Finanças pelo IBMEC/DF (2013), Mestrado (2016) e Doutorado (2020) em Finanças e Métodos Quantitativos pelo Programa de Pós-Graduação em Administração da UnB (PPGA/UnB).",
             "lattes_url": "http://lattes.cnpq.br/6798568258786751",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2006 - 2010: Ciências Econômicas\nUniversidade de Brasília"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2012 - 2013: CBA - Controladoria e Finanças\nGrupo IBMEC"
+                ],
+                "MESTRADO": [
+                    "2014 - 2016: Administração\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2016 - 2020: Administração\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "Não tenho",
+                "email": "jsouza@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -181890,7 +181655,7 @@
                     "1998 - 2002: Ecologia\nUniversidade de Brasília"
                 ],
                 "PÓS-DOUTORADO": [
-                    "2012 - : Pós-Doutorado\nIFEC Conicet Universidade Nacional de Córdoba",
+                    "2012 - : Pós-Doutorado\nUniversidad Nacional de Córdoba",
                     "2023 - 2024: Pós-Doutorado\nMuseo Argentino de Ciencias Naturales Bernardino Rivadavia"
                 ]
             },
@@ -183146,13 +182911,27 @@
         {
             "nome": "LI CHONG LEE BACELAR DE CASTRO",
             "departamento": "DEPTO ENGENHARIA CIVIL E AMBIENTAL - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2025221168984e373797759c521624e01/lee.jpg",
+            "foto_url": "https://arquivos.unb.br/arquivos/20261760017ad13823550635a28b46d58/LEE.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1518834",
-            "descricao_pessoal": "não informada",
-            "lattes_url": null,
-            "formacao_academica": {},
+            "descricao_pessoal": "Técnico em Edificações pela Escola Técnica Federal do Rio Grande do Norte - ETFRN (1997), graduação em Engenharia Civil pela Universidade Federal do Rio Grande do Norte (2003), Mestrado (2005) e Doutorado (2009) em Estruturas e Construção Civil, ambos pela Universidade de Brasília - UnB. Tem experiência na área de Engenharia Civil, com ênfase em Estruturas e Construção Civil. Atua principalmente nos seguintes temas: Soluções inteligentes em projetos, Perícias, Reabilitação Estrutural, Estruturas especiais, Fundações e Contenções. Professor universitário desde 2003. Detém conhecimentos avançados nos softwares AutoCAD, CAD/TQS, CYPECAD, EBERICK, ROBOT STRUCTURAL ANALYSIS PROFESSIONAL, REVIT. Pesquisador nas áreas de Inteligência Artificial para Estruturas e Construção Civil com publicações em periódicos e congressos nacionais e internacionais. Já orientou vários trabalhos de conclusão de curso e de Especialização. Analista de Infraestrutura do Ministério da Gestão e Inovação com exercício descentralizado na Coordenação-Geral de Logística, Patrimônio e Engenharia da Controladoria-Geral da União.",
+            "lattes_url": "https://lattes.cnpq.br/5218106601309077",
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1998 - 2003: Engenharia Civil\nUniversidade Federal do Rio Grande do Norte"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2017 - 2018: Políticas de Infraestrutura\nEscola Nacional de Administração Pública",
+                    "2023 - 2023: Docência e Metodologias para o Ensino Superior\nInstituto de Pós-Graduação e Graduação"
+                ],
+                "MESTRADO": [
+                    "2003 - 2005: Estruturas e Construção Civil\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2005 - 2009: Estruturas e Construção Civil\nUniversidade de Brasília"
+                ]
+            },
             "contatos": {
-                "sala": "não informado",
+                "sala": "05",
                 "telefone": "5531",
                 "email": "li.castro@unb.br"
             },
@@ -183197,7 +182976,21 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1696894",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2005 - 2008: Bacharelado em Matemática\nUniversidade Federal do Ceará"
+                ],
+                "MESTRADO": [
+                    "2009 - 2011: Matemática\nUniversidade Federal do Ceará"
+                ],
+                "DOUTORADO": [
+                    "2011 - 2015: Matemática\nInstituto Nacional de Matemática Pura e Aplicada"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2015 - 2016: Pós-Doutorado\nInstituto Nacional de Matemática Pura e Aplicada",
+                    "2021 - 2022: Pós-Doutorado\nUniversity of Chicago"
+                ]
+            },
             "contatos": {
                 "sala": "não informado",
                 "telefone": "-",
@@ -183244,11 +183037,49 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3525753",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2004 - 2010: Ingenieria Civil\nUniversidad Del Cauca"
+                ],
+                "MESTRADO": [
+                    "2011 - 2013: Estruturas e Construção Civil\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2013 - 2018: Estruturas e Construção Civil\nUniversidade de Brasília"
+                ]
+            },
             "contatos": {
                 "sala": "não informado",
                 "telefone": "não informado",
                 "email": "natilla8746@gmail.com"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "VINICIUS VIGOLO",
+            "departamento": "DEPARTAMENTO DE ENGENHARIA MECANICA - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026243201f55e380738775b9161c9ba0/Foto_Sucia.PNG",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3521021",
+            "descricao_pessoal": "Professor e pesquisador com atuação em sistemas hidráulicos e pneumáticos, integrando modelagem, controle e projeto. Possui experiência internacional acadêmical, com interesse em pesquisa aplicada, desenvolvimento tecnológico e formação de engenheiros com forte base prática e analítica.",
+            "lattes_url": "http://lattes.cnpq.br/8319793760463345",
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2012 - 2013: Mestrado Integrado em Engenharia Mecânica\nUniversidade do Minho",
+                    "2010 - 2015: Engenharia de Produção Mecânica\nUniversidade do Oeste de Santa Catarina",
+                    "2014 - 2015: Mechanical Engineering Technology\nAlgonquin College"
+                ],
+                "MESTRADO": [
+                    "2016 - 2018: Programa de Pós-Graduação em Egenharia Mecânica\nUniversidade Federal de Santa Catarina"
+                ],
+                "DOUTORADO": [
+                    "2021 - 2025: Engenharia Mecânica\nUniversidade Federal de Santa Catarina"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "+55 (61) 3107-5503",
+                "email": "vinicius.vigolo@unb.br"
             },
             "dados_lattes": null,
             "dados_scholar": null

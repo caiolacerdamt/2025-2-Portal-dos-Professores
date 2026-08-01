@@ -34107,8 +34107,22 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2497584",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1990 - 1994: Ciência da Computação\nUniversidade de Passo Fundo"
+                ],
+                "MESTRADO": [
+                    "1996 - 1998: Ciência da Computação\nNagoya Institute Of Technology"
+                ],
+                "DOUTORADO": [
+                    "1998 - 2001: Ciência da Computação\nNagoya Institute Of Technology"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "3662",
+                "email": "carladenisecastanho@gmail.com"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -43024,8 +43038,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1159553",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1979 - 1982: Bacharelado Em Matemática\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "1986 - 1988: Engenharia de Produção\nUniversidade Federal de Santa Catarina"
+                ],
+                "DOUTORADO": [
+                    "1988 - 1995: Engenharia Elétrica\nUniversidade Federal de Santa Catarina"
+                ],
+                "PÓS-DOUTORADO": [
+                    "1998 - 1999: Pós-Doutorado\nState University Of New York At Stony Brook"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "5895",
+                "email": "murilo@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "gN_REkcAAAAJ",
@@ -45294,8 +45325,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1821656",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2004 - 2007: Ciência da Computação\nUniversidade Federal de Goiás"
+                ],
+                "MESTRADO": [
+                    "2008 - 2010: Ciência da Computação\nUniversidade Estadual de Campinas"
+                ],
+                "DOUTORADO": [
+                    "2011 - 2016: Ciencia da Computacao\nUniversidade de São Paulo"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2025 - : Pós-Doutorado\nUniversity of Maryland"
+                ]
+            },
+            "contatos": {
+                "sala": "A1-67-28",
+                "telefone": "2226",
+                "email": "thiagodepaulo@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "Fh9KDgcAAAAJ",
@@ -45828,6 +45876,9 @@
                 ],
                 "DOUTORADO": [
                     "2012 - 2016: Ciências da Computação e Matemática Computacional\nUniversidade de São Paulo"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2025 - : Pós-Doutorado\nUniversity of Münster"
                 ]
             },
             "contatos": {
@@ -48595,8 +48646,26 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1151467",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/3436184353817774",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2003 - 2006: Matemática\nUniversidade Federal de Mato Grosso do Sul"
+                ],
+                "MESTRADO": [
+                    "2007 - 2009: Matemática\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2009 - 2013: Matemática\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2013 - 2014: Pós-Doutorado\nUniversidade de Brasília",
+                    "2022 - : Pós-Doutorado\nImperial College London - South Kensington Campus"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "dnantes@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -49416,8 +49485,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1848603",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5021091527395609",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2001 - 2004: Matemática Bacharelado\nUniversidade Federal de Goiás"
+                ],
+                "MESTRADO": [
+                    "2005 - 2007: Matemática\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2007 - 2011: Matemática\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2018 - 2019: Pós-Doutorado\nUniversidade do Porto"
+                ]
+            },
+            "contatos": {
+                "sala": "A1 402/12",
+                "telefone": "6481",
+                "email": "fzapata@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -60157,8 +60243,26 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2717070",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2000 - 2003: Arquivologia\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2005 - 2007: Ciências da Informação\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2007 - 2011: Ciências da Informação\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2014 - 2015: Pós-Doutorado\nUniversidade de Brasília",
+                    "2015 - 2015: Pós-Doutorado\nEcole Nationale des Chartes - Sorbonne"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "2634",
+                "email": "angelicacunha@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "mctpPD8AAAAJ",
@@ -64371,6 +64475,9 @@
                 ],
                 "DOUTORADO": [
                     "2001 - 2004: Ciências da Informação\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2024 - 2025: Pós-Doutorado\nUniversidad Complutense de Madrid"
                 ]
             },
             "contatos": {
@@ -64388,8 +64495,22 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=673388",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1979 - 1982: Processamento de Dados\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "1989 - 1992: Biblioteconomia e Documentação\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2006 - 2010: Ciência da Informação\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "2640",
+                "email": "jleiro@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "4kWtFagAAAAJ",
@@ -68771,8 +68892,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2615616",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5676915146365703",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2007 - 2010: Biblioteconomia\nUniversidade de Brasília"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2010 - 2011: Docência do Ensino Superior\nFaculdade Alvorada"
+                ],
+                "MESTRADO": [
+                    "2012 - 2013: Ciências da Informação\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2014 - 2017: Ciências da Informação\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "2641",
+                "email": "michelli@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -71770,7 +71908,7 @@
             }
         },
         {
-            "nome": "SHIRLEY CARVALHEDO FRANCO",
+            "nome": "SHIRLEY CARVALHÊDO FRANCO",
             "departamento": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2022054091c3d32361552379617414d0c/FAB15B3D-B4AC-4093-AA11-D09F16278A8F.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2343982",
@@ -73076,8 +73214,24 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1762467",
             "descricao_pessoal": "Adoro Brasília.",
             "lattes_url": "http://lattes.cnpq.br/4126785926136488",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1993 - 1996: Licenciatura em História\nUniversidade de Brasília",
+                    "1999 - Incompleto: Educação Artística\nUniversidade de Brasília",
+                    "1993 - 1997: Bacharelado em História\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2004 - 2006: História\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2016 - 2020: Comunicação\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "2651",
+                "email": "ecarrijo@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -81949,8 +82103,28 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1672308",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/9274147713584765",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1995 - 1999: Física\nUniversidade Federal de Goiás"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2007 - 2007: Licenciatura\nUniversidade Federal de Goiás"
+                ],
+                "MESTRADO": [
+                    "1999 - 2000: Física\nUniversidade Federal de Goiás"
+                ],
+                "DOUTORADO": [
+                    "2001 - 2005: Física\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2005 - 2006: Pós-Doutorado\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "7717",
+                "email": "albernaz@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -106878,8 +107052,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=418913",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5435762270956940/",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1983 - 1988: Bacharelado e Licenciatura Em Química\nUniversidade Federal de Viçosa"
+                ],
+                "MESTRADO": [
+                    "1988 - 1991: Química\nUniversidade Federal de Minas Gerais"
+                ],
+                "DOUTORADO": [
+                    "1995 - 1999: Química\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2012 - 2013: Pós-Doutorado\nUniversidade de Aveiro"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "31073808",
+                "email": "gmol@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -109006,7 +109197,7 @@
             "foto_url": "https://arquivos.unb.br/arquivos/202501504265db3453037102222cccd13/Jez_W.B_Braga.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1645963",
             "descricao_pessoal": "não informada",
-            "lattes_url": null,
+            "lattes_url": "http://lattes.cnpq.br/1505814835374901",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "1998 - 2001: Química Licenciatura\nUniversidade Estadual de Goiás"
@@ -109022,7 +109213,7 @@
                 ]
             },
             "contatos": {
-                "sala": "não informado",
+                "sala": "A1- 12/21",
                 "telefone": "3840",
                 "email": "jez@unb.br"
             },
@@ -111078,7 +111269,7 @@
         {
             "nome": "JURANDIR RODRIGUES DE SOUZA",
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/20201500024e692055858c2116b63dda2/EU2011.jpg",
+            "foto_url": "https://arquivos.unb.br/arquivos/202622923617d138469832c38166856fa/_DSC2572.JPG",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1122801",
             "descricao_pessoal": "urandir Rodrigues de Souza concluiu o doutorado em Engenharia de Processos - Ecole Nationale Superieure de Genie Chimique Toulouse França em 1993. Atualmente é Professor Titular, Membro da Sociedade Brasileira de Química, Avaliador de Curso do Instituto Nacional de Estudos e Pesquisas Educacionais, Membro do XII Conselho Regional de Química. Na área de gesão universitária atuou como: Chefe do Deparamento de Química da UnB, Coordenador de Graduação, Coodenador de Extensão, Vice-Diretor do IQ-UnB, Diretor de Acompanhamento e Integração Acadêmica do Decanato de Ensino de Graduação da UnB, Asssessor da Vice-Reitoria da UnB e Diretor do Instituto de Química. Publicou 52 artigos em periódicos especializados, 2 Capítulos de Livros e 112 trabalhos em anais de eventos. Possui 3 registros de patentes, 1 software registrado, 2 processos ou técnicas registrados e outros 11 itens de produção técnica. Participou de eventos no exterior e no Brasil. Orientou 16 dissertações de mestrado e co-orientou 4, orientou 12 teses de doutorado e co-orientou 1 tese de doutorado, orientou 3 trabalhos aperfeiçoamento além de ter orientado 37 trabalhos de iniciação científica nas áreas de Química, Engenharia Química e Nutrição. Recebeu 3 prêmios e/ou homenagens. Até o momento participou de 10 projetos de pesquisa, sendo que coordenou 7 destes. Atua na área de Química, com ênfase em Análise de Traços e Química Ambiental. Em suas atividades profissionais interagiu com 91 colaboradores em co-autorias de trabalhos científicos. Em seu currículo Lattes os termos mais freqüentes na contextualização da produção científica, tecnológica e artístico-cultural são: Mercúrio, Reator eletroquímico, Voltametria de Pulso Diferencial, Eletrodo Poroso Percolado, Voltametria de Redissolução Anódica, Zinco, Peixe, ASV, Mercury e Selênio.",
             "lattes_url": "http://lattes.cnpq.br/1412260545035778",
@@ -111989,9 +112180,9 @@
         {
             "nome": "KALINE AMARAL WANDERLEY",
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2021227050293022720868bf0867eafb0/WhatsApp_Image_2021-04-30_at_18.04.45.jpeg",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026108065b7d738951102a8c798605ca/WhatsApp_Image_2026-04-07_at_19.25.18.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3884823",
-            "descricao_pessoal": "Professora de Química Inorgânica do Instituto de Química da Universidade de Brasília. Doutora em Química pela Universidade Federal de Pernambuco (2013). Possui graduação em Bacharelado em Química (2007) e Mestrado em Química (2010) pela Universidade Federal de Pernambuco. Tem experiência na área de Química Inorgânica e Materiais, com ênfase em sínteses de materiais a base de carbono, compósitos, redes de coordenação, nanoformulações e suas aplicações em meio ambiente, agricultura e sustentabilidade. Atualmente, sua pesquisa está voltada para inovação científica e social, desenvolvendo novos produtos e levando novas tecnologias para solucionar problemas da sociedade através de trabalhos de extensão. Sócia e pesquisadora da Krilltech Nanotecnologia Agro S.A., Ata Brasil Nanoaditivos e fundadora da Lazutech Soluções LTDA.",
+            "descricao_pessoal": "Professora de Química Inorgânica do Instituto de Química da Universidade de Brasília. Doutora em Química pela Universidade Federal de Pernambuco (2013). Possui graduação em Bacharelado em Química (2007) e Mestrado em Química (2010) pela Universidade Federal de Pernambuco. Tem experiência na área de Química Inorgânica e Materiais, com ênfase em sínteses de materiais a base de carbono, compósitos, redes de coordenação, nanoformulações e suas aplicações em meio ambiente, agricultura e sustentabilidade. Atualmente, sua pesquisa está voltada para inovação científica e social, desenvolvendo novos produtos e levando novas tecnologias para solucionar problemas da sociedade através de trabalhos de extensão.",
             "lattes_url": "https://lattes.cnpq.br/3966706536722543",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -112749,7 +112940,7 @@
             "last_updated_scholar": "2025-11-26T17:14:05.922736"
         },
         {
-            "nome": "LARISSA MICHELLE PERDIGÃO NASS",
+            "nome": "LARISSA MICHELLE PERDIGAO NASS",
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2023223055d3db2682278eda3a69882fb/photo3.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1730943",
@@ -120376,8 +120567,27 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2764698",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1999 - 2000: Engenharia Mecânica (Graduação Sanduíche)\nTechnische Universität München",
+                    "1996 - 2002: Engenharia Mecânica\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2002 - 2004: Engenharia Civil (Recursos Hídricos)\nUniversidade Federal do Ceará"
+                ],
+                "DOUTORADO": [
+                    "2005 - 2009: Earth and Environmental Engineering\nColumbia University"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2009 - 2010: Pós-Doutorado\nColumbia University",
+                    "2016 - 2017: Pós-Doutorado\nUniversity of California, Irvine"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "0934",
+                "email": "chrlima@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "lMZGQBwAAAAJ",
@@ -123795,7 +124005,7 @@
         {
             "nome": "FELIX ALVES DA SILVA JUNIOR",
             "departamento": "DEPTO ENGENHARIA CIVIL E AMBIENTAL - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2026087165b3ef38370790e9d3d9b8cdb/WhatsApp_Image_2026-03-10_at_10.30.10.jpeg",
+            "foto_url": "https://arquivos.unb.br/arquivos/202617403364ec40522559ec7d3ba316c/Captura_de_tela_2026-07-31_133235.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3895670",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/1214457416002858",
@@ -124694,8 +124904,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1335816",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1995 - 2001: Environmental Engineering\nUniversidad de Santiago de Chile"
+                ],
+                "MESTRADO": [
+                    "2001 - 2003: Applied Environmental Measurements Techniques\nChalmers University of Technology"
+                ],
+                "DOUTORADO": [
+                    "2004 - 2007: Urban Engineering\nUniversity of Tokyo"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2014 - : Pós-Doutorado\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "0989",
+                "email": "pineda@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -125340,7 +125567,7 @@
             "departamento": "DEPTO ENGENHARIA CIVIL E AMBIENTAL - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/20210951852147227886351191c16f89c/Untitled.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1111740",
-            "descricao_pessoal": "não informada",
+            "descricao_pessoal": "Casado e pai de dois filhos, Álvaro e Otávio.",
             "lattes_url": "http://lattes.cnpq.br/8239901885386547",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -130555,8 +130782,23 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1847391",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/0471906852268220",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2001 - 2006: Engenharia Civil\nUniversidade Estadual de Goiás",
+                    "2020 - 2025: Psicologia\nCentro Universitário de Brasília"
+                ],
+                "MESTRADO": [
+                    "2007 - 2008: Estruturas e Construção Civil\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2008 - 2013: Estruturas e Construção Civil\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "31075603",
+                "email": "marcoshonorato@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -152999,8 +153241,29 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3322236",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1981 - 1987:\nUniversidade Federal de Santa Catarina"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "1993 - 1995:\nUniversidade de Brasília",
+                    "1995 - 1995:\nCalifornia State University, Los Angeles"
+                ],
+                "MESTRADO": [
+                    "1990 - 1993: Administração\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "1998 - 2003: Administração\nUniversidade Federal de Minas Gerais"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2013 - 2018: Pós-Doutorado\nUniversidade do Minho"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "5732",
+                "email": "annibal@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -163191,6 +163454,9 @@
                 ],
                 "DOUTORADO": [
                     "2002 - 2006: Engenharia Elétrica\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2026 - : Pós-Doutorado\nUniversidad Complutense de Madrid"
                 ]
             },
             "contatos": {
@@ -166245,7 +166511,7 @@
         {
             "nome": "JOSE ONIRAM DE AQUINO LIMAVERDE FILHO",
             "departamento": "DEPTO ENGENHARIA ELETRICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/202423000898773272731411c4ac12a12/Perfil_V5.jpg",
+            "foto_url": "https://arquivos.unb.br/arquivos/20262211587f78389900211de68c38187/Perfil_V5.JPEG",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2387918",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/3528038175088341",
@@ -167686,7 +167952,7 @@
                     "2018 - 2021: Física\nUniversidade de Brasília"
                 ],
                 "PÓS-DOUTORADO": [
-                    "2025 - : Pós-Doutorado\nRice University"
+                    "2025 - 2025: Pós-Doutorado\nRice University"
                 ]
             },
             "contatos": {
@@ -176281,7 +176547,7 @@
             "dados_scholar": null
         },
         {
-            "nome": "AILTON TEIXEIRA DO VALE",
+            "nome": "AILTON TEIXEIRA D",
             "departamento": "DEPTO ENGENHARIA FLORESTAL - BRASÍLIA",
             "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=404207",
@@ -183080,6 +183346,159 @@
                 "sala": "não informado",
                 "telefone": "+55 (61) 3107-5503",
                 "email": "vinicius.vigolo@unb.br"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "PATRICIA ARAUJO DE OLIVEIRA",
+            "departamento": "DEPTO CIÊNCIAS DA COMPUTAÇÃO - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/202612807658e240518877b002cdf38b1/WhatsApp_Image_2026-07-16_at_14.01.07.jpeg",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1067454",
+            "descricao_pessoal": "não informada",
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2007 - Incompleto: Análise e Desenvolvimento de Sistemas\nInstituto Federal de Educação, Ciência e Tecnologia do Pará",
+                    "2007 - 2011: Ciência da Computação\nUniversidade da Amazônia"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2024 - 2025: Privacidade e Segurança em Informação\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2011 - 2014: Ciências da Computação\nUniversidade de São Paulo"
+                ],
+                "DOUTORADO": [
+                    "2015 - 2022: Ciência da Computação\nUniversidade de Málaga",
+                    "2014 - Incompleto: Engenharia de Sistemas\nUniversidade de São Paulo"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "não informado"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "DEIVID RODRIGUES DO VALE",
+            "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026124031de40405326632b9faf211c3/Screenshot_2026-07-31_at_22.47.16.png",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3548591",
+            "descricao_pessoal": "Atualmente, sou professor assistente no Departamento de Matemática atuando na área de Teoria da Computação.\nPara mais informações visite minha página pessoal em https://deividrvale.github.io",
+            "lattes_url": "http://lattes.cnpq.br/1003576625763513",
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2013 - 2017: Matemática\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2017 - 2019: Matemática\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2019 - 2023: Ciência da Computação\nRadboud University Nijmegen"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2023 - 2024: Pós-Doutorado\nRadboud University Nijmegen",
+                    "2025 - 2026: Pós-Doutorado\nAugusta University"
+                ]
+            },
+            "contatos": {
+                "sala": "A1-426/12",
+                "telefone": "3107-6479",
+                "email": "deivid.vale@unb.br"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "FILIPPO GHIGLIENO",
+            "departamento": "INSTITUTO DE FÍSICA - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/2023030037e59b2872235ff51163856e3/OIP.jpg",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2024189",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1989 - 1995: Theoretical physics\nIstituto Di Fisica Di Torino"
+                ],
+                "MESTRADO": [
+                    "2002 - 2003: Bioinformatics\nFondazione per le biotecnologie",
+                    "1997 - 1998: Telecommicações\nScuola Superiore G. Reiss Romoli"
+                ],
+                "DOUTORADO": [
+                    "2005 - 2008: Materials Science and Technology\nPolitecnico di Torino"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2009 - 2011: Pós-Doutorado\nUniversité Paris Diderot",
+                    "2012 - 2013: Pós-Doutorado\nUniversidade de São Paulo",
+                    "2008 - 2009: Pós-Doutorado\nUniversité Paris Diderot"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "7800",
+                "email": "filippo.ghiglieno@unb.br"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "LEANDER EDWARD MICHELS BRITO MIRANDA",
+            "departamento": "INSTITUTO DE FÍSICA - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026009038a2313799788961e126ba5cc/20250323_154806.jpg",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3520183",
+            "descricao_pessoal": "não informada",
+            "lattes_url": "http://lattes.cnpq.br/4136579836712262",
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2006 - 2010: Física\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2010 - 2012: Física\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2012 - 2016: Física\nNorwegian University of Science and Technology"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2024 - 2026: Pós-Doutorado\nLawrence Berkeley National Laboratory",
+                    "2015 - 2018: Pós-Doutorado\nNorwegian University of Science and Technology"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "31077700",
+                "email": "leander.michels@unb.br"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "JOAO PEDRO CARVALHO SILVEIRA",
+            "departamento": "DEPTO ENGENHARIA ELETRICA - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/202614001229263948321572a30da91bd/COBEP4.png",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1915873",
+            "descricao_pessoal": "não informada",
+            "lattes_url": "http://lattes.cnpq.br/8544315639538097",
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2008 - 2013: Engenharia de Energia\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2014 - 2016: ENGENHARIA ELÉTRICA\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2017 - 2022: Engenharia Elétrica\nUniversidade Estadual de Campinas"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2023 - 2026: Pós-Doutorado\nCentro de Estudos de PetrÃ³leo",
+                    "2022 - : Pós-Doutorado\nUniversidade Estadual de Campinas"
+                ]
+            },
+            "contatos": {
+                "sala": "BT 46/18",
+                "telefone": "31075510",
+                "email": "joao.silveira@unb.br"
             },
             "dados_lattes": null,
             "dados_scholar": null

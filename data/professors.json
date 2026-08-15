@@ -34129,7 +34129,7 @@
         {
             "nome": "CARLA MARIA CHAGAS E CAVALCANTE KOIKE",
             "departamento": "DEPTO CIÊNCIAS DA COMPUTAÇÃO - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2025237073b703352245470c6ed023b29/Captura_de_Tela_2025-05-19_a768s_16.11.16.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/20260161163aef40670926eedfcbdc2e5/Eu.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2314993",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
@@ -36166,7 +36166,7 @@
             "departamento": "DEPTO CIÊNCIAS DA COMPUTAÇÃO - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2020164239d9a320416677e95108238e4/profflaviovidal-novo.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2366026",
-            "descricao_pessoal": "Professor Associado no Departamento de Ciência da Computação da Universidade de Brasília. Com experiência na área de Ciência da Computação e Engenharia Elétrica, com ênfase em Visão Computacional e Automação de Sistemas, atuando principalmente nos seguintes temas: visão computacional (rastreamento, análise de movimento e análise/reconhecimento facial), automação de sistemas, arquitetura de computadores e processamento digital de imagens. Dentre as diversas atividades de pesquisa é coordenador e membro fundador do Laboratório de Imagens, Sinais e Acústica (LISA) e líder do Grupo de Pesquisa em Sistemas Biométricos (BiTGroup), ambos cadastrados no Diretório de Grupos de Pesquisa Lattes.",
+            "descricao_pessoal": "Professor Titular no Departamento de Ciência da Computação da Universidade de Brasília. Com experiência na área de Ciência da Computação e Engenharia Elétrica, com ênfase em Visão Computacional e Automação de Sistemas, atuando principalmente nos seguintes temas: visão computacional (rastreamento, análise de movimento e análise/reconhecimento facial), automação de sistemas, arquitetura de computadores e processamento digital de imagens. Dentre as diversas atividades de pesquisa é coordenador e membro fundador do Laboratório de Imagens, Sinais e Acústica (LISA) e líder do Grupo de Pesquisa em Sistemas Biométricos (BiTGroup), ambos cadastrados no Diretório de Grupos de Pesquisa Lattes.",
             "lattes_url": "http://lattes.cnpq.br/0453892715674953",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -48121,7 +48121,7 @@
         {
             "nome": "CLEYTON HERCULES GONTIJO",
             "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/202614820214413860729dfa08a2285e8/Gemini_Generated_Image_9reyhs9reyhs9rey.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026145021107b40684823b21f780fe33/Cleyton_2026.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1714408",
             "descricao_pessoal": "Professor Titular da Universidade de Brasília - UnB, com lotação no Departamento de Matemática. É membro do Programa de Pós-Graduação em Educação da UnB, orientando pesquisas nos cursos de mestrado acadêmico e doutorado em educação. Possui graduação em Licenciatura em Ciências e Matemática pelo Centro Universitário de Brasília (1991), mestrado em Educação pela Universidade de Brasília (1999) e doutorado em Psicologia pela Universidade de Brasília (2007). Tem experiência na área de Matemática, com ênfase em Educação Matemática, atuando principalmente nos seguintes temas: criatividade em matemática, avaliação em matemática e resolução de problemas.",
             "lattes_url": "http://lattes.cnpq.br/0556476746202406",
@@ -59282,22 +59282,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2440996",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/7191530003940077",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1985 - 1988: História\nUniversidade Federal Fluminense"
-                ],
-                "MESTRADO": [
-                    "1996 - 1999: História Social\nUniversidade Federal do Rio de Janeiro"
-                ],
-                "DOUTORADO": [
-                    "2004 - 2008: História\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "3107-2620",
-                "email": "anaabreu@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -77805,8 +77791,22 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2531979",
             "descricao_pessoal": "não informada",
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2000 - 2003: Matemática\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2004 - 2006: Matemática\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2008 - 2012: Estatística\nUniversidade de São Paulo"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "3659",
+                "email": "james@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -78319,22 +78319,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2330775",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2003 - 2007: Estatística\nUniversidade de Brasília"
-                ],
-                "MESTRADO": [
-                    "2008 - 2010: Estatística e Métodos Quantitativos\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2011 - 2015: Doutorado em Estatistica\nUniversidade de São Paulo"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "3107-3673",
-                "email": "leandrotc@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -102743,25 +102729,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1391172",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4203388H6&tokenCaptchar=03AGdBq27xLmTD614tpeMJ8yj7y3R0TulkmKxPKjPUWF0RW1ZWXPmRNaTwnrGgtpYMLtdQzja3UQL8CYzEiIdBYG0sotUdJEvJCnHwlghwjfysD085zLUhtaVn4HV3uRR0CTix8i7gCYBf3mPxhMjcZFjjCgUawcd5ccURmVIpX-P6cobasdTPOoZAUBV_AmNSyvQzeO2XZZmJ07FBXAw2KH",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2006 - 2010: Curso de Licenciatura em Química\nUniversidade Federal do Acre"
-                ],
-                "MESTRADO": [
-                    "2011 - 2013: Química\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "2013 - 2017: Química\nUniversidade de Brasília"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2018 - : Pós-Doutorado\nUniversidade de Brasília"
-                ]
-            },
-            "contatos": {
-                "sala": "BT-70/1",
-                "telefone": "31073900",
-                "email": "daniel.scalabrini@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "5SKMkhwAAAAJ",
@@ -110142,26 +110111,12 @@
         {
             "nome": "JOSE JOAQUIN LINARES LEON",
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
-            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/20260330385408407213843cdde2e86fb/20260810_184004.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1951906",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1999 - 2003: chemical engineering\nUniversidad de Castilla-La Mancha - Ciudad Real"
-                ],
-                "DOUTORADO": [
-                    "2003 - 2010: Ingeniería Química, ambiental y de los materiales\nUniversidad de Castilla-La Mancha - Ciudad Real"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2010 - : Pós-Doutorado\nUniversidade de São Paulo"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "3828",
-                "email": "joselinares@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "n9_AXfYAAAAJ",
@@ -113719,7 +113674,7 @@
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2020010180226620588730a7482681a36/Foto_Paterno.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1892565",
-            "descricao_pessoal": "Bacharel em Química pelo Instituto de Química de São Carlos-USP (1997), doutor em Ciência e Engenharia dos Materiais pela Universidade Federal de São Carlos (2003). É Professor Associado do Instituto de Química da Universidade de Brasília e coordenador do Programa de Pós-Graduação em Química do mesmo instituto, eleito para o biênio 2018-2020. Atua na área de Química de Materiais e Interfaces, com foco na deposição e caracterização de filmes ultrafinos de nanomateriais para conversão/armazenamento de energia e sensores químicos.",
+            "descricao_pessoal": "Bacharel em Química pelo Instituto de Química de São Carlos-USP (1997), doutor em Ciência e Engenharia dos Materiais pela Universidade Federal de São Carlos (2003). É Professor Associado do Instituto de Química da Universidade de Brasília, onde foi coordenador do Programa de Pós-Graduação em Química, no período 2018-2020. Atualmente, coordena o Programa de Pós-Graduação em Ciência de Materiais da Universidade de Brasília. Atua na área de Química de Materiais e Interfaces, com foco na preparação de nanomateriais (óxido de grafeno e nanopartículas inorgânicas), deposição de filmes ultrafinos e fabricação de dispositivos para conversão de energia, sensores químicos e plataformas para fototerapia do câncer.",
             "lattes_url": "http://lattes.cnpq.br/1705430650855494",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -118597,10 +118552,10 @@
         {
             "nome": "ALEXANDRE KEPLER SOARES",
             "departamento": "DEPTO ENGENHARIA CIVIL E AMBIENTAL - BRASÍLIA",
-            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/20260601495dbc40589172359a9907e0d/Foto-SIGAA.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1646016",
-            "descricao_pessoal": null,
-            "lattes_url": null,
+            "descricao_pessoal": "Possui graduação em Engenharia Civil pela Universidade Federal de Mato Grosso do Sul (2000), mestrado e doutorado em Engenharia Hidráulica e Saneamento pela Escola de Engenharia de São Carlos - EESC/USP (2003 e 2007), e pós-doutorado no Departamento de Hidráulica e Saneamento da Escola de Engenharia de São Carlos (EESC/USP) e no Instituto Superior Técnico da Universidade de Lisboa, Portugal. Tem experiência nas áreas de Engenharia Hidráulica e Recursos Hídricos, atuando principalmente em sistemas de distribuição de água, transientes hidráulicos, perdas em redes de distribuição de água e modelos para otimização. Foi professor na Universidade Federal de Mato Grosso (2008 a 2010) e na Universidade Federal de Goiás (2010 a 2018). Atuou como Superintendente de Recursos Hídricos e Secretário-Executivo do Conselho Estadual de Meio Ambiente, entre 2016 e 2018, no Estado de Goiás. Participou como membro titular ou suplente em colegiados de Comitês de Bacias Hidrográficas, Conselho Estadual de Recursos Hídricos de Goiás, Conselho Nacional de Recursos Hídricos e Conselho Nacional do Meio Ambiente. Desde 2018, é professor associado da Universidade de Brasília, onde ministra aulas para os cursos de Engenharia Ambiental e Sanitária e Engenharia Civil e para o Programa de Pós-Graduação em Tecnologia Ambiental e Recursos Hídricos. No biênio 2024-2025, foi presidente da Associação Brasileira de Recursos Hídricos (ABRHidro).",
+            "lattes_url": "http://lattes.cnpq.br/3620209642728740",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "1996 - 2000: Engenharia Civil\nUniversidade Federal de Mato Grosso do Sul"
@@ -145217,25 +145172,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1646090",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1997 - 2001: Engenharia Mecânica\nUniversidade Federal do Rio de Janeiro"
-                ],
-                "MESTRADO": [
-                    "2001 - 2003: Engenharia Mecânica\nUniversidade Federal do Rio de Janeiro"
-                ],
-                "DOUTORADO": [
-                    "2003 - 2007: Engenharia Mecânica\nUniversidade Federal do Rio de Janeiro"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2015 - 2016: Pós-Doutorado\nUniversity of Nevada, Reno"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "3107-1158",
-                "email": "fabiocastro@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "aqO1KWEAAAAJ",
@@ -152476,7 +152414,7 @@
             "departamento": "DEPTO ENGENHARIA DE PRODUCAO - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2023118153b45d2641551f043b4d175ab/f12023.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1320804",
-            "descricao_pessoal": "Professor Associado do Departamento de Engenharia de Produção. Graduado em Matemática (UnB), Especialista em Ciência de Dados (PUC-RJ), Especialista em Inteligência Artificial (PUC-MG), Mestre e Doutor em Economia (UnB), Pós-Doutor (ICMC - USP)",
+            "descricao_pessoal": "Professor Associado do Departamento de Engenharia de Produção. Graduado em Matemática (UnB), Graduado em Ciência da Computação (UCB), Especialista em Ciência de Dados (PUC-RJ), Especialista em Inteligência Artificial (PUC-MG), Mestre e Doutor em Economia (UnB), Doutorando em Computação (Unesp), Pós-Doutor em Matematica Computacional (ICMC - USP)",
             "lattes_url": "http://lattes.cnpq.br/9297412598307091",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -176547,7 +176485,7 @@
             "dados_scholar": null
         },
         {
-            "nome": "AILTON TEIXEIRA D",
+            "nome": "AILTON TEIXEIRA DO VALE",
             "departamento": "DEPTO ENGENHARIA FLORESTAL - BRASÍLIA",
             "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=404207",
@@ -178223,10 +178161,10 @@
         {
             "nome": "DANIEL COSTA DE CARVALHO",
             "departamento": "DEPTO ENGENHARIA FLORESTAL - BRASÍLIA",
-            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/202619113746e84057204cc93056ee1a6/Foto_perfil.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1032840",
-            "descricao_pessoal": null,
-            "lattes_url": null,
+            "descricao_pessoal": "não informada",
+            "lattes_url": "http://lattes.cnpq.br/6394423734483181",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "2003 - 2008: Engenharia Florestal\nUniversidade Federal Rural do Rio de Janeiro"
@@ -181913,23 +181851,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1365928",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5804582372968711",
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "1990 - 1995: Bacharelado em Biologia\nUniversidade de Brasília"
-                ],
-                "DOUTORADO": [
-                    "1998 - 2002: Ecologia\nUniversidade de Brasília"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2012 - : Pós-Doutorado\nUniversidad Nacional de Córdoba",
-                    "2023 - 2024: Pós-Doutorado\nMuseo Argentino de Ciencias Naturales Bernardino Rivadavia"
-                ]
-            },
-            "contatos": {
-                "sala": "LAFUC",
-                "telefone": "31075630",
-                "email": "reuber@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -183207,10 +183130,10 @@
         {
             "nome": "YURI SAMPAIO MALUF",
             "departamento": "DEPTO ESTATÍSTICA - BRASÍLIA",
-            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026184122aa9e4044507f06ced20899c/1762799479722.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1209061",
-            "descricao_pessoal": null,
-            "lattes_url": null,
+            "descricao_pessoal": "não informada",
+            "lattes_url": "https://lattes.cnpq.br/9455543122845191",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "2021 - : Licenciatura em Matemática\nFUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP",
@@ -183242,26 +183165,8 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1696894",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {
-                "GRADUAÇÃO": [
-                    "2005 - 2008: Bacharelado em Matemática\nUniversidade Federal do Ceará"
-                ],
-                "MESTRADO": [
-                    "2009 - 2011: Matemática\nUniversidade Federal do Ceará"
-                ],
-                "DOUTORADO": [
-                    "2011 - 2015: Matemática\nInstituto Nacional de Matemática Pura e Aplicada"
-                ],
-                "PÓS-DOUTORADO": [
-                    "2015 - 2016: Pós-Doutorado\nInstituto Nacional de Matemática Pura e Aplicada",
-                    "2021 - 2022: Pós-Doutorado\nUniversity of Chicago"
-                ]
-            },
-            "contatos": {
-                "sala": "não informado",
-                "telefone": "-",
-                "email": "francisco.vanderson@unb.br"
-            },
+            "formacao_academica": {},
+            "contatos": {},
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -183374,9 +183279,9 @@
                 ]
             },
             "contatos": {
-                "sala": "não informado",
+                "sala": "A1-30-7",
                 "telefone": "não informado",
-                "email": "não informado"
+                "email": "patricia.oliveira@unb.br"
             },
             "dados_lattes": null,
             "dados_scholar": null
@@ -183405,7 +183310,7 @@
             },
             "contatos": {
                 "sala": "A1-426/12",
-                "telefone": "3107-6479",
+                "telefone": "não informado",
                 "email": "deivid.vale@unb.br"
             },
             "dados_lattes": null,
@@ -183499,6 +183404,48 @@
                 "sala": "BT 46/18",
                 "telefone": "31075510",
                 "email": "joao.silveira@unb.br"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "FLOR DE MARIA SILVESTRE ESTELA",
+            "departamento": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO - BRASÍLIA",
+            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1090425",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {},
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "silvestreestela@gmail.com"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "TALIA ALVES XAVIER",
+            "departamento": "DEPTO ESTATÍSTICA - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/2023175080a3aa2906510d76060105f22/WhatsApp_Image_2023-09-20_at_07.51.06.jpeg",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1531151",
+            "descricao_pessoal": "não informada",
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2017 - 2022: Estatística\nUniversidade de Brasília"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2024 - 2024: Pós-graduação em Ciência de Dados\nFACULDADE FOCUS"
+                ],
+                "MESTRADO": [
+                    "2023 - 2026: Estatistica\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "não informado"
             },
             "dados_lattes": null,
             "dados_scholar": null

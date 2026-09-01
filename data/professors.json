@@ -59282,8 +59282,22 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2440996",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/7191530003940077",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1985 - 1988: História\nUniversidade Federal Fluminense"
+                ],
+                "MESTRADO": [
+                    "1996 - 1999: História Social\nUniversidade Federal do Rio de Janeiro"
+                ],
+                "DOUTORADO": [
+                    "2004 - 2008: História\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "3107-2620",
+                "email": "anaabreu@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -67847,6 +67861,9 @@
                 ],
                 "DOUTORADO": [
                     "2017 - 2021: Artes\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2026 - : Pós-Doutorado\nUniversidade de São Paulo"
                 ]
             },
             "contatos": {
@@ -71894,7 +71911,7 @@
             }
         },
         {
-            "nome": "SHIRLEY CARVALHÊDO FRANCO",
+            "nome": "SHIRLEY CARVALHEDO FRANCO",
             "departamento": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2022054091c3d32361552379617414d0c/FAB15B3D-B4AC-4093-AA11-D09F16278A8F.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2343982",
@@ -78319,8 +78336,22 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2330775",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2003 - 2007: Estatística\nUniversidade de Brasília"
+                ],
+                "MESTRADO": [
+                    "2008 - 2010: Estatística e Métodos Quantitativos\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2011 - 2015: Doutorado em Estatistica\nUniversidade de São Paulo"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "3107-3673",
+                "email": "leandrotc@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -101845,7 +101876,7 @@
         {
             "nome": "CLAUDIA CRISTINA GATTO",
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2020142232c9a42037547e5ee04713fe8/Foto_CV.gif",
+            "foto_url": "https://arquivos.unb.br/arquivos/20261231309bed40897469984facee028/1_-_Copia_2.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2565759",
             "descricao_pessoal": "Professora Titular do Instituto de Química da Universidade de Brasília e responsável pelo LASIC (Laboratório de Síntese Inorgânica e Cristalografia) e pelo Laboratório de Difração de Raios X do IQ-UnB.\nInstituto de Química - Divisão de Química Inorgânica\n\nGrupo de Pesquisa: LASIC - Laboratório de Síntese Inorgânica e Cristalografia\nLocal: IQ - B1 71/3\nhttp://lattes.cnpq.br/0533357429795905\nORCID: https://orcid.org/0000-0002-3736-6861\nResearcherID: I-9924-2014",
             "lattes_url": "http://lattes.cnpq.br/0533357429795905",
@@ -102729,8 +102760,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1391172",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4203388H6&tokenCaptchar=03AGdBq27xLmTD614tpeMJ8yj7y3R0TulkmKxPKjPUWF0RW1ZWXPmRNaTwnrGgtpYMLtdQzja3UQL8CYzEiIdBYG0sotUdJEvJCnHwlghwjfysD085zLUhtaVn4HV3uRR0CTix8i7gCYBf3mPxhMjcZFjjCgUawcd5ccURmVIpX-P6cobasdTPOoZAUBV_AmNSyvQzeO2XZZmJ07FBXAw2KH",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2006 - 2010: Curso de Licenciatura em Química\nUniversidade Federal do Acre"
+                ],
+                "MESTRADO": [
+                    "2011 - 2013: Química\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2013 - 2017: Química\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2018 - : Pós-Doutorado\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "BT-70/1",
+                "telefone": "31073900",
+                "email": "daniel.scalabrini@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "5SKMkhwAAAAJ",
@@ -105335,7 +105383,7 @@
             "contatos": {
                 "sala": "não informado",
                 "telefone": "3866",
-                "email": "eqdamasceno@gmail.com"
+                "email": "fernandadamasceno@unb.br"
             },
             "dados_lattes": null,
             "dados_scholar": null
@@ -160760,7 +160808,7 @@
             "departamento": "DEPTO ENGENHARIA ELETRICA - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/20200952005fff2051064f37e2be62177/perfil_2020.png",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=2131191",
-            "descricao_pessoal": "não informada",
+            "descricao_pessoal": "É professor associado do Departamento de Engenharia Elétrica da Faculdade de Tecnologia da Universidade de Brasília (UnB).",
             "lattes_url": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4418475P1",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -181851,8 +181899,23 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1365928",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/5804582372968711",
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1990 - 1995: Bacharelado em Biologia\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "1998 - 2002: Ecologia\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2012 - : Pós-Doutorado\nUniversidad Nacional de Córdoba",
+                    "2023 - 2024: Pós-Doutorado\nMuseo Argentino de Ciencias Naturales Bernardino Rivadavia"
+                ]
+            },
+            "contatos": {
+                "sala": "LAFUC",
+                "telefone": "31075630",
+                "email": "reuber@unb.br"
+            },
             "dados_lattes": {
                 "resumo_cv": null,
                 "atuacao_profissional": [
@@ -183165,8 +183228,26 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1696894",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2005 - 2008: Bacharelado em Matemática\nUniversidade Federal do Ceará"
+                ],
+                "MESTRADO": [
+                    "2009 - 2011: Matemática\nUniversidade Federal do Ceará"
+                ],
+                "DOUTORADO": [
+                    "2011 - 2015: Matemática\nInstituto Nacional de Matemática Pura e Aplicada"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2015 - 2016: Pós-Doutorado\nInstituto Nacional de Matemática Pura e Aplicada",
+                    "2021 - 2022: Pós-Doutorado\nUniversity of Chicago"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "-",
+                "email": "francisco.vanderson@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": null
         },
@@ -183289,7 +183370,7 @@
         {
             "nome": "DEIVID RODRIGUES DO VALE",
             "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2026124031de40405326632b9faf211c3/Screenshot_2026-07-31_at_22.47.16.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026156035b38b41149853037a050d035/servletrecuperafoto.gif",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3548591",
             "descricao_pessoal": "Atualmente, sou professor assistente no Departamento de Matemática atuando na área de Teoria da Computação.\nPara mais informações visite minha página pessoal em https://deividrvale.github.io",
             "lattes_url": "http://lattes.cnpq.br/1003576625763513",
@@ -183446,6 +183527,91 @@
                 "sala": "não informado",
                 "telefone": "não informado",
                 "email": "não informado"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "CARLOS ALEXANDER RECAREY MORFA",
+            "departamento": "FACULDADE DE TECNOLOGIA - BRASÍLIA",
+            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1052124",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1987 - 1991: Ingeniería Civil\nUniversidad Central Marta Abreu de Las Villas"
+                ],
+                "DOUTORADO": [
+                    "1996 - 2000: Mecânica computacional e métodos numéricos na engenharia\nUniversidad Central Marta Abreu de Las Villas"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2002 - 2003: Pós-Doutorado\nCentro Inter. de Métodos Numéricos en Ingeniería"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "carlosarecarey@gmail.com"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "CAROLINA SANTOS BONFIM",
+            "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
+            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1525720",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2008 - 2015: Química\nUniversidade Federal da Bahia",
+                    "2015 - 2018: Química\nUniversidade Federal da Bahia"
+                ],
+                "MESTRADO": [
+                    "2018 - 2020: Ensino, Filosofia e História das Ciências\nUniversidade Federal da Bahia"
+                ],
+                "DOUTORADO": [
+                    "2020 - 2025: EDUCAÇÃO EM CIÊNCIAS\nUniversidade de Brasília"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "carol.sb88@gmail.com"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "DANIEL ALVES DA SILVA",
+            "departamento": "DEPTO ENGENHARIA ELETRICA - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/202213809448b62501585a5bc32d870b3/daniel.jpeg",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1362495",
+            "descricao_pessoal": null,
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1999 - 2002: Bacharelado em Sistemas de Informação\nFaculdade Alvorada"
+                ],
+                "ESPECIALIZAÇÃO": [
+                    "2004 - 2005: MBA em Gerencia de Projetos\nFaculdades Integradas Anglo-Americano"
+                ],
+                "MESTRADO": [
+                    "2012 - 2014: Engenharia Elétrica e de Redes\nUniversidade de Brasília"
+                ],
+                "DOUTORADO": [
+                    "2016 - 2021: ENGENHARIA ELÉTRICA\nUniversidade de Brasília"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2024 - 2025: Pós-Doutorado\nHamm-Lippstadt University of Applied Sciences"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "61995257887",
+                "email": "daniel.odf@gmail.com"
             },
             "dados_lattes": null,
             "dados_scholar": null

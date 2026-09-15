@@ -58471,11 +58471,11 @@
             "departamento": "FACULDADE DE CIÊNCIA DA INFORMAÇÃO - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2026008245f7c039424379878ce61e6c3/img20260324155334585.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1225384",
-            "descricao_pessoal": "não informada",
+            "descricao_pessoal": "Professora Associada e Pesquisadora da Faculdade de Ciência da Informação da Universidade de Brasília (UnB), com atuação no eixo de organização e representação da informação e do conhecimento, é também docente permanente no Programa de Pós-Graduação em Ciência da Informação da Universidade Federal de São Carlos (PPGCI/UFSCar) e no Programa de Pós-Graduação em Ciência da Informação da Universidade de Brasília (PPGCINF/UnB). Bolsista de Produtividade em Pesquisa do CNPq - Nível C.",
             "lattes_url": "http://lattes.cnpq.br/9896600626524397",
             "formacao_academica": {
                 "GRADUAÇÃO": [
-                    "2022 - : Ciência de Dados\nFUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP",
+                    "2022 - 2026: Ciência de Dados\nFUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP",
                     "2007 - 2010: Biblioteconomia\nUniversidade Estadual Paulista Júlio de Mesquita Filho",
                     "2022 - 2025: Bacharelado em Tecnologia da Informação (ênfase em análise de dados)\nFUNDACAO UNIVERSIDADE VIRTUAL DO ESTADO DE SAO PAULO-UNIVESP"
                 ],
@@ -110161,10 +110161,24 @@
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/20260330385408407213843cdde2e86fb/20260810_184004.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1951906",
-            "descricao_pessoal": null,
-            "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "descricao_pessoal": "não informada",
+            "lattes_url": "http://lattes.cnpq.br/5126547270872842",
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1999 - 2003: chemical engineering\nUniversidad de Castilla-La Mancha - Ciudad Real"
+                ],
+                "DOUTORADO": [
+                    "2003 - 2010: Ingeniería Química, ambiental y de los materiales\nUniversidad de Castilla-La Mancha - Ciudad Real"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2010 - : Pós-Doutorado\nUniversidade de São Paulo"
+                ]
+            },
+            "contatos": {
+                "sala": "IQ BT-86/5",
+                "telefone": "3828",
+                "email": "joselinares@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "n9_AXfYAAAAJ",
@@ -124906,7 +124920,7 @@
             "foto_url": "https://arquivos.unb.br/arquivos/202414006813dc3093376a846d1c5ae88/shareImage_1614173916_4.jpeg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1335816",
             "descricao_pessoal": "não informada",
-            "lattes_url": null,
+            "lattes_url": "http://lattes.cnpq.br/1134301014530617",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "1995 - 2001: Environmental Engineering\nUniversidad de Santiago de Chile"
@@ -124924,7 +124938,7 @@
             "contatos": {
                 "sala": "não informado",
                 "telefone": "0989",
-                "email": "pineda@unb.br"
+                "email": "não informado"
             },
             "dados_lattes": null,
             "dados_scholar": null
@@ -127093,7 +127107,7 @@
         {
             "nome": "JOSE WILSON DOS SANTOS FERREIRA",
             "departamento": "DEPTO ENGENHARIA CIVIL E AMBIENTAL - BRASÍLIA",
-            "foto_url": "https://arquivos.unb.br/arquivos/2024121001e4dd3028308ec86e179a6e8/3x4.jpeg",
+            "foto_url": "https://arquivos.unb.br/arquivos/2026094101cff241145704d0046f5ea5c/IMG_9648.JPEG",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1293542",
             "descricao_pessoal": "não informada",
             "lattes_url": "http://lattes.cnpq.br/2756173610233772",
@@ -145220,8 +145234,25 @@
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1646090",
             "descricao_pessoal": null,
             "lattes_url": null,
-            "formacao_academica": {},
-            "contatos": {},
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "1997 - 2001: Engenharia Mecânica\nUniversidade Federal do Rio de Janeiro"
+                ],
+                "MESTRADO": [
+                    "2001 - 2003: Engenharia Mecânica\nUniversidade Federal do Rio de Janeiro"
+                ],
+                "DOUTORADO": [
+                    "2003 - 2007: Engenharia Mecânica\nUniversidade Federal do Rio de Janeiro"
+                ],
+                "PÓS-DOUTORADO": [
+                    "2015 - 2016: Pós-Doutorado\nUniversity of Nevada, Reno"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "3107-1158",
+                "email": "fabiocastro@unb.br"
+            },
             "dados_lattes": null,
             "dados_scholar": {
                 "scholar_id": "aqO1KWEAAAAJ",

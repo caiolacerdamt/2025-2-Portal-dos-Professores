@@ -105407,7 +105407,6 @@
                     "1996 - 1998: Química\nUniversidade Estadual de Campinas"
                 ],
                 "DOUTORADO": [
-                    "2000 - 2000: Doutorado em Quimica - UNICAMP\nUniversidade Estadual de Campinas",
                     "1998 - 2003: Química\nUniversidade Estadual de Campinas"
                 ]
             },
@@ -160494,6 +160493,7 @@
                     "2016 - 2020: Engenharia Elétrica\nUniversidade Federal de Minas Gerais"
                 ],
                 "PÓS-DOUTORADO": [
+                    "2026 - : Pós-Doutorado\nUniversidade de São Paulo",
                     "2022 - 2023: Pós-Doutorado\nUniversité Gustave Eiffel",
                     "2020 - 2022: Pós-Doutorado\nCentre National de la Recherche Scientifique"
                 ]
@@ -183404,7 +183404,7 @@
             "departamento": "DEPARTAMENTO DE MATEMÁTICA - BRASÍLIA",
             "foto_url": "https://arquivos.unb.br/arquivos/2026156035b38b41149853037a050d035/servletrecuperafoto.gif",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3548591",
-            "descricao_pessoal": "Atualmente, sou professor assistente no Departamento de Matemática atuando na área de Teoria da Computação.\nPara mais informações visite minha página pessoal em https://deividrvale.github.io",
+            "descricao_pessoal": "Sou professor assistente no Departamento de Matemática, atuando na área de Teoria da Computação.\nPara mais informações visite minha página pessoal em https://deividrvale.github.io",
             "lattes_url": "http://lattes.cnpq.br/1003576625763513",
             "formacao_academica": {
                 "GRADUAÇÃO": [
@@ -183607,10 +183607,10 @@
         {
             "nome": "CAROLINA SANTOS BONFIM",
             "departamento": "INSTITUTO DE QUÍMICA - BRASÍLIA",
-            "foto_url": "https://sigaa.unb.br/sigaa/img/no_picture.png",
+            "foto_url": "https://arquivos.unb.br/arquivos/202605007735e141876882c3975b1dd46/foto_sigaa.jpg",
             "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=1525720",
-            "descricao_pessoal": null,
-            "lattes_url": null,
+            "descricao_pessoal": "Professora da Divisão de Ensino no Instituto de Química",
+            "lattes_url": "http://lattes.cnpq.br/2699356972072807",
             "formacao_academica": {
                 "GRADUAÇÃO": [
                     "2008 - 2015: Química\nUniversidade Federal da Bahia",
@@ -183723,6 +183723,29 @@
                 "sala": "não informado",
                 "telefone": "não informado",
                 "email": "tatyrosaa@gmail.com"
+            },
+            "dados_lattes": null,
+            "dados_scholar": null
+        },
+        {
+            "nome": "VICTOR DENIS CLAUDE GOUIN",
+            "departamento": "DEPTO ENGENHARIA ELETRICA - BRASÍLIA",
+            "foto_url": "https://arquivos.unb.br/arquivos/2025161043850b34939173ac70153f1fd/Foto.jpg",
+            "pagina_sigaa_url": "https://sigaa.unb.br/sigaa/public/docente/portal.jsf?siape=3556989",
+            "descricao_pessoal": "Atuou em pesquisa acad?mica e industrial, incluindo a publica??o de patente e a cria??o de uma startup dedicada a PD em redes el?tricas. Tem experi?ncia no setor el?trico, com colabora??o em projetos de planejamento e moderniza??o de redes de distribui??o para importantes concession?rias na Fran?a. Seus principais interesses incluem planejamento de redes de distribui??o, medidores inteligentes, topologia de redes urbanas e expans?o do sistema el?trico. ? autor do livro Distribution System Planning - Evolution of Methodologies and Digital Tools for Energy Transition.",
+            "lattes_url": null,
+            "formacao_academica": {
+                "GRADUAÇÃO": [
+                    "2008 - 2011: Engenharia Elétrica\nInstitut Polytechnique de Grenoble"
+                ],
+                "DOUTORADO": [
+                    "2012 - 2015: Engenharia Elétrica\nInstitut Polytechnique de Grenoble"
+                ]
+            },
+            "contatos": {
+                "sala": "não informado",
+                "telefone": "não informado",
+                "email": "gouinvictor@gmail.com"
             },
             "dados_lattes": null,
             "dados_scholar": null
